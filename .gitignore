@@ -1,3 +1,8 @@
+title.basics.tsv
+title.basics.tsv.gz
+movie_title.csv
+config.py
+
 .DS_Store
 
 # TO IGNORE
