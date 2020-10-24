@@ -9,6 +9,7 @@ config.py
 # TO IGNORE
 api_keys.py
 config.py
+title.ratings.tsv
 
 
 # Byte-compiled / optimized / DLL files
