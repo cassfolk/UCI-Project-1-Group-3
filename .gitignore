@@ -6,6 +6,11 @@ config.py
 
 .DS_Store
 
+# TO IGNORE
+api_keys.py
+config.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
