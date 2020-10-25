@@ -1,0 +1,531 @@
+,ID,imdb_id,release_date,budget,revenue,genres,original_language,original_title,origin_country,production_countries name,spoken_languages name
+0,283587,tt1365050,2015-09-11,6000000,9077700,Drama,English,Beasts of No Nation,GH,Ghana,English
+1,347969,tt2479478,2015-12-11,60000000,0,Comedy,English,The Ridiculous 6,US,United States of America,English
+2,263341,tt2652118,2016-02-18,20000000,0,Action,English,"Crouching Tiger, Hidden Dragon: Sword of Destiny",CN,China,English
+3,347689,tt0837156,2016-03-15,0,0,Adventure,English,Pee-wee's Big Holiday,US,United States of America,English
+4,355008,tt4181052,2016-04-22,0,0,Comedy,English,Special Correspondents,GB,United Kingdom,English
+5,389053,tt4769836,2016-05-27,0,0,Action,English,The Do-Over,US,United States of America,English
+6,318121,tt2452386,2016-06-16,0,0,Comedy,English,The Fundamentals of Caring,US,United States of America,English
+7,373453,tt5240748,2016-01-24,0,0,Comedy,English,Brahman Naman,GB,United Kingdom,English
+8,369033,tt4902716,2016-04-17,0,0,Thriller,English,Rebirth,US,United States of America,English
+9,353571,tt1639084,2016-06-02,0,0,Drama,English,Tallulah,US,United States of America,English
+10,352492,tt4855748,2016-08-26,0,0,Music,English,XOXO,US,United States of America,English
+11,410199,tt5640450,2016-09-16,2000000,0,Science Fiction,Español,ARQ,US,United States of America,Español
+12,334517,tt3922798,2016-09-19,0,0,War,Français,The Siege of Jadotville,ZA,South Africa,Français
+13,368993,tt4936176,2016-10-11,20000000,0,Comedy,English,Mascots,US,United States of America,English
+14,407559,tt5059406,2016-09-10,0,0,Horror,English,I Am the Pretty Thing That Lives in the House,US,United States of America,English
+15,423093,tt5517438,2016-10-28,0,0,Drama,Español,7 años,ES,Spain,Español
+16,339396,tt1542768,2016-11-11,40000000,0,Comedy,English,True Memoirs of an International Assassin,US,United States of America,English
+17,180305,tt2481496,2014-10-07,0,0,Thriller,English,Mercy,US,United States of America,English
+18,324670,tt2106651,2016-12-09,70000000,0,Thriller,English,Spectral,US,United States of America,English
+19,429238,tt5740806,2017-01-06,0,0,Family,Français,Coin Heist,US,United States of America,Français
+20,433244,tt5577742,2017-01-13,0,0,Thriller,English,Clinical,US,United States of America,English
+21,433245,tt5792472,2017-01-20,0,0,Comedy,English,Take the 10,US,United States of America,English
+22,414190,tt3171832,2017-01-27,1500000,0,Action,English,iBoy,GB,United Kingdom,English
+23,253154,tt3331028,2014-01-20,0,0,Drama,English,Imperial Dreams,US,United States of America,English
+24,346650,tt2962984,2017-01-24,0,0,Comedy,English,Girlfriend's Day,US,United States of America,English
+25,425591,tt5710514,2017-01-19,0,0,Comedy,English,I Don't Feel at Home in This World Anymore,US,United States of America,English
+26,426265,tt5826432,2017-01-24,0,0, ,English,Burning Sands, , , 
+27,428687,tt4144332,2017-01-23,0,0,Drama,English,Deidra & Laney Rob a Train,US,United States of America,English
+28,401743,tt4842646,2017-03-24,0,0,Crime,English,The Most Hated Woman in America,US,United States of America,English
+29,376134,tt5155780,2017-03-31,0,0,Drama,English,The Discovery,US,United States of America,English
+30,397442,tt3155328,2017-03-11,0,0,Comedy,English,Win It All,US,United States of America,English
+31,419700,tt5893332,2017-04-14,0,0,Comedy,English,Sandy Wexler,US,United States of America,English
+32,390054,tt2582576,2017-04-21,0,0,Action,العربية,Sand Castle,GB,United Kingdom,العربية
+33,412209,tt4991512,2016-09-10,2000000,0,Comedy,English,Tramps,US,United States of America,English
+34,411405,tt5717492,2017-04-28,0,0,Drama,English,Small Crimes,CA,Canada,English
+35,402582,tt5809020,2017-05-05,0,0,Comedy,English,Handsome: A Netflix Mystery Movie,US,United States of America,English
+36,409421,tt6574146,2017-05-20,0,0,Action,日本語,ブラム,JP,Japan,日本語
+37,354287,tt4758646,2017-05-26,60000000,0,Comedy,پښتو,War Machine,US,United States of America,پښتو
+38,457962,tt1386691,2017-06-09,0,0,Thriller,English,Shimmer Lake,CA,Canada,English
+39,387426,tt3967856,2017-06-28,50000000,0,Adventure,English,Okja,KR,South Korea,English
+40,401104,tt5541240,2017-01-22,0,0,Drama,English,To the Bone,US,United States of America,English
+41,432789,tt5990342,2017-01-27,0,0, ,English,The Incredible Jessica James, , , 
+42,21450,tt0107653,1993-09-14,0,0,Drama,English,Naked,GB,United Kingdom,English
+43,346671,tt2937366,2017-08-08,0,0,Comedy,English,Little Evil,US,United States of America,English
+44,433247,tt4882376,2017-02-18,24000000,0,Drama,English,First They Killed My Father,KH,Cambodia,English
+45,343674,tt3748172,2017-09-29,0,0,Drama,English,Gerald's Game,US,United States of America,English
+46,433252,tt5034266,2017-09-01,0,0,Romance,English,Our Souls at Night,US,United States of America,English
+47,457917,tt6895746,2017-12-08,0,0,Comedy,Español,Fe de etarras,ES,Spain,Español
+48,419479,tt4225622,2017-10-13,0,0,Horror,English,The Babysitter,US,United States of America,English
+49,452507,tt6214928,2017-10-20,0,0,Crime,English,1922,US,United States of America,English
+50,471014,tt5723286,2017-10-20,0,0,Action,English,Wheelman,US,United States of America,English
+51,10835,tt0097202,1989-07-06,0,0,Action,广州话 / 廣州話,喋血雙雄,HK,Hong Kong,广州话 / 廣州話
+52,483104,tt7608418,2017-11-17,0,0,Romance,English,A Christmas Prince,US,United States of America,English
+53,485504,tt3255590,2017-12-08,0,0,Comedy,English,El Camino Christmas,US,United States of America,English
+54,449755,tt7608534,2017-12-15,10000000,0,Romance,English,Christmas Inheritance,US,United States of America,English
+55,400106,tt5519340,2017-12-22,90000000,0,Action,Español,Bright,US,United States of America,Español
+56,419472,tt5539052,2017-01-22,0,0,Comedy,English,The Polka King,US,United States of America,English
+57,431072,tt5267472,2018-01-19,10000000,0,Comedy,English,Step Sisters,US,United States of America,English
+58,485774,tt7608028,2018-01-19,0,0,Thriller,English,The Open House,US,United States of America,English
+59,251312,tt2998526,2013-11-30,0,1859,Comedy,Español,Blockbuster,ES,Spain,Español
+60,391710,tt5566790,2018-01-24,10000000,0,Comedy,English,A Futile and Stupid Gesture,US,United States of America,English
+61,384521,tt2548396,2018-02-04,45000000,0,Mystery,English,The Cloverfield Paradox,US,United States of America,English
+62,433310,tt5783956,2018-02-09,10000000,0,Comedy,English,When We First Met,US,United States of America,English
+63,505175,tt7853242,2018-02-14,0,0,Comedy,हिन्दी,Love per Square Foot,IN,India,हिन्दी
+64,450489,tt6119856,2018-02-16,10000000,0,Comedy,English,Irreplaceable You,US,United States of America,English
+65,401371,tt1464763,2018-02-23,0,0,Mystery,Deutsch,Mute,DE,Germany,Deutsch
+66,23069,tt0071206,1974-10-17,0,0,Adventure,English,Benji,US,United States of America,English
+67,456750,tt3317234,2018-03-23,0,0,Action,Español,"Game Over, Man!",US,United States of America,Español
+68,452558,tt7245176,2017-08-25,0,0,Crime,广州话 / 廣州話,殺破狼·貪狼,HK,Hong Kong,广州话 / 廣州話
+69,426257,tt5796838,2017-01-22,0,0,Drama,English,"Roxanne, Roxanne",US,United States of America,English
+70,451563,tt6423886,2018-03-30,0,0,Romance,English,Happy Anniversary,US,United States of America,English
+71,502122,tt6061074,2018-03-12,0,0,Drama,English,First Match,US,United States of America,English
+72,500634,tt6142496,2018-03-12,0,0,Drama,English,6 Balloons,US,United States of America,English
+73,30157,tt0109093,1994-08-05,0,0,Crime,English,Amateur,US,United States of America,English
+74,430446,tt1690967,2018-01-21,0,0,Drama,English,Come Sunday,US,United States of America,English
+75,515841,tt6857988,2018-04-13,0,0,Comedy,Français,Je ne suis pas un homme facile,FR,France,Français
+76,399131,tt3458510,2018-04-20,0,0,Comedy,English,Dude,US,United States of America,English
+77,507143,tt6744044,2018-04-27,0,0,Comedy,English,Candy Jar,US,United States of America,English
+78,465109,tt6821012,2018-04-27,0,0,Comedy,English,The Week Of,US,United States of America,English
+79,411852,tt5877882,2016-12-23,0,0,Drama,தமிழ்,சில சமயங்களில்,IN,India,தமிழ்
+80,519253,tt6679412,2018-05-04,2000000,0,Drama,Italiano,Rimetti a noi i nostri debiti,AL,Albania,Italiano
+81,454983,tt3799232,2018-05-11,0,0,Romance,English,The Kissing Booth,GB,United Kingdom,English
+82,425972,tt3860916,2017-10-06,0,56385,Drama,English,Cargo,AU,Australia,English
+83,463053,tt3685236,2018-05-25,0,0,Comedy,English,Ibiza,US,United States of America,English
+84,511785,tt5688996,2018-04-16,0,0,Comedy,English,Alex Strangelove,US,United States of America,English
+85,384677,tt5304992,2018-06-12,0,0,Romance,English,Set It Up,US,United States of America,English
+86,530154,tt8439854,2018-06-15,0,0,Drama,हिन्दी,Lust Stories,IN,India,हिन्दी
+87,531736,tt6290418,2018-06-24,0,0,Comedy,Deutsch,Les goûts et les couleurs,FR,France,Deutsch
+88,474051,tt6218358,2018-06-22,0,0,Thriller,English,Calibre,GB,United Kingdom,English
+89,411143,tt4357394,2018-06-29,0,0,Science Fiction,Deutsch,Tau,US,United States of America,Deutsch
+90,311307,tt4762824,2018-03-10,0,0,Comedy,English,The Legacy of a Whitetail Deer Hunter,US,United States of America,English
+91,475210,tt5246700,2018-07-13,20000000,0,Science Fiction,English,How It Ends,CA,Canada,English
+92,531949,tt7256866,2018-07-20,0,0,Comedy,English,Father of the Year,US,United States of America,English
+93,429415,tt3201640,2018-07-26,0,0,Action,English,Extinction,US,United States of America,English
+94,518452,tt7170950,2018-08-03,0,0,Comedy,English,Like Father,US,United States of America,English
+95,503619,tt7525778,2018-08-10,0,0,Comedy,English,The Package,US,United States of America,English
+96,466282,tt3846674,2018-08-16,0,0,Comedy,English,To All the Boys I've Loved Before,US,United States of America,English
+97,538604,tt3960240,2018-08-24,0,0,Comedy,English,The After Party,US,United States of America,English
+98,462919,tt3120280,2018-09-07,0,0,Comedy,English,Sierra Burgess Is a Loser,US,United States of America,English
+99,478100,tt6186696,2018-09-07,0,0,Mystery,Français,La Femme la plus assassinée du monde,US,United States of America,Français
+100,523777,tt7133686,2018-09-07,22000000,0,Action,English,Next Gen,CA,Canada,English
+101,452731,tt6485928,2018-09-12,0,0,Drama,English,The Land of Steady Habits,US,United States of America,English
+102,468362,tt5968274,2018-05-15,12000000,0,Action,English,The Angel,US,United States of America,English
+103,519035,tt0365545,2018-09-21,0,0,Comedy,English,Nappily Ever After,US,United States of America,English
+104,395841,tt5057140,2018-09-22,0,0,Thriller,English,Hold the Dark,US,United States of America,English
+105,458342,tt5536610,2018-10-05,0,0,Drama,English,Private Life,US,United States of America,English
+106,424121,tt6217306,2018-09-21,0,0,Horror,English,Apostle,US,United States of America,English
+107,449992,tt6116856,2018-10-05,0,0,Action,普通话,The Night Comes for Us,ID,Indonesia,普通话
+108,462469,tt1682886,2018-10-12,0,0,Drama,English,Been So Long,GB,United Kingdom,English
+109,555850,tt8262802,2018-11-02,0,0,Romance,Deutsch,The Holiday Calendar,US,United States of America,Deutsch
+110,299782,tt0069049,2018-11-02,12000000,0,Comedy,English,The Other Side of the Wind,FR,France,English
+111,454227,tt6679794,2018-11-09,0,0,Action,English,Outlaw King,GB,United Kingdom,English
+112,556803,tt8954732,2018-11-16,0,0,Romance,English,The Princess Switch,US,United States of America,English
+113,521935,tt8361028,2018-10-01,0,0,Thriller,English,Cam,US,United States of America,English
+114,537996,tt6412452,2018-11-09,0,0,Comedy,English,The Ballad of Buster Scruggs,US,United States of America,English
+115,527435,tt2990140,2018-11-22,0,0,Comedy,English,The Christmas Chronicles,US,United States of America,English
+116,525041,tt8709036,2018-11-30,0,0,Romance,English,A Christmas Prince: The Royal Wedding,US,United States of America,English
+117,494950,tt6747420,2018-10-13,0,0,Comedy,हिन्दी,Rajma Chawal,IN,India,हिन्दी
+118,407436,tt2388771,2018-11-25,175000000,0,Adventure,English,Mowgli: Legend of the Jungle,GB,United Kingdom,English
+119,426426,tt6155172,2018-08-25,15000000,1140769,Drama,English,Roma,US,United States of America,English
+120,405774,tt2737304,2018-12-13,19800000,0,Thriller,English,Bird Box,US,United States of America,English
+121,9399,tt0100029,1990-06-07,6000000,24271196,Action,English,Lionheart,US,United States of America,English
+122,5991,tt0015064,1924-12-23,0,0,Drama,No Language,Der letzte Mann,DE,Germany,No Language
+123,433249,tt3256226,2019-01-18,0,0,Science Fiction,English,IO,US,United States of America,English
+124,539036,tt6078866,2019-01-18,0,0,Drama,हिन्दी,Soni,IN,India,हिन्दी
+125,483906,tt4139588,2019-01-25,0,0,Action,English,Polar,DE,Germany,English
+126,463684,tt7043012,2019-02-01,21000000,0,Thriller,English,Velvet Buzzsaw,US,United States of America,English
+127,510498,tt8128188,2019-01-27,0,0,Drama,English,High Flying Bird,US,United States of America,English
+128,582868,tt8852536,2019-02-22,0,0,Drama,,Firebrand,IN,India,
+129,504321,tt7920024,2019-02-22,0,0,Drama,Français,Paris est à nous,FR,France,Français
+130,525183,tt8041276,2019-02-22,0,0,Drama,English,Paddleton,US,United States of America,English
+131,581420,tt5848416,2019-03-08,0,0,Drama,English,Walk. Ride. Rodeo.,US,United States of America,English
+132,581475,tt6155456,2019-03-08,0,0,Drama,English,Juanita,US,United States of America,English
+133,399361,tt1488606,2019-03-06,0,0,Action,English,Triple Frontier,US,United States of America,English
+134,327331,tt0800325,2019-03-22,0,0,Drama,English,The Dirt,US,United States of America,English
+135,500682,tt1860242,2019-03-15,49000000,0,Crime,English,The Highwaymen,US,United States of America,English
+136,423949,tt2338454,2017-09-11,0,0,Fantasy,English,Unicorn Store,US,United States of America,English
+137,586333,tt8976832,2019-03-22,0,0,Comedy,Español,¿A quién te llevarías a una isla desierta?,ES,Spain,Español
+138,543540,tt8201170,2019-04-12,0,0,Romance,English,The Perfect Date,US,United States of America,English
+139,515248,tt8075260,2019-04-19,0,0,Comedy,English,Someone Great,US,United States of America,English
+140,596178,tt3257794,2018-09-08,0,0,Drama,हिन्दी,Music Teacher,IN,India,हिन्दी
+141,588001,tt9150970,2019-03-16,0,0,Comedy,Español,A Pesar de Todo,ES,Spain,Español
+142,502292,tt7957694,2019-05-03,0,0,Comedy,English,The Last Summer,US,United States of America,English
+143,513083,tt8169446,2019-05-08,0,0,Comedy,English,Wine Country,US,United States of America,English
+144,602609,tt9032888,2019-05-16,0,0,Romance,English,Good Sam,US,United States of America,English
+145,582607,tt8743064,2019-05-03,0,0,Science Fiction,English,See You Yesterday,US,United States of America,English
+146,531306,tt8179388,2019-05-24,0,0,Science Fiction,English,Rim of the World,US,United States of America,English
+147,529962,tt7772580,2018-09-20,0,0,Thriller,English,The Perfection,US,United States of America,English
+148,513576,tt7374948,2019-05-31,0,0,Romance,English,Always Be My Maybe,US,United States of America,English
+149,601801,tt10243678,2019-05-31,0,0,Comedy,हिन्दी,Chopsticks,IN,India,हिन्दी
+150,514999,tt1618434,2019-05-25,24000000,0,Comedy,English,Murder Mystery,US,United States of America,English
+151,603519,tt8530978,2019-06-19,0,0,Drama,English,Beats,US,United States of America,English
+152,26039,tt0062138,1967-08-30,2500000,3200000,Crime,English,Point Blank,US,United States of America,English
+153,612152,tt9419834,2019-07-18,0,0,Drama,English,Secret Obsession,US,United States of America,English
+154,465003,tt4995776,2019-07-28,0,0,Drama,English,The Red Sea Diving Resort,CA,Canada,English
+155,531509,tt4180560,2019-08-13,0,0,Comedy,English,Otherhood,US,United States of America,English
+156,582570,tt8976710,2019-08-16,0,0,Comedy,English,Sextuplets,US,United States of America,English
+157,623195,tt9860728,2019-09-04,0,0,Romance,English,Falling Inn Love,US,United States of America,English
+158,15596,tt0090685,1986-06-13,11000000,91258000,Comedy,English,Back to School,US,United States of America,English
+159,625450,tt9252508,2019-09-13,0,0,Comedy,English,Tall Girl,US,United States of America,English
+160,584962,tt9398640,2019-09-20,0,0,Comedy,English,Between Two Ferns: The Movie,US,United States of America,English
+161,530382,tt8110640,2019-09-27,0,0,Mystery,English,In the Shadow of the Moon,US,United States of America,English
+162,523139,tt4687108,2019-09-20,0,0,Horror,English,In the Tall Grass,CA,Canada,English
+163,559969,tt9243946,2019-10-11,6000000,0,Crime,English,El Camino: A Breaking Bad Movie,US,United States of America,English
+164,568091,tt4332232,2019-09-22,0,0,Thriller,English,Fractured,US,United States of America,English
+165,631997,tt10589914,2019-10-11,0,0,Drama,日本語,愛なき森で叫べ,JP,Japan,日本語
+166,614488,tt10958282,2019-10-12,0,0,Drama,Français,Banlieusards,FR,France,Français
+167,483202,tt5294518,2019-10-18,0,0,Horror,English,Eli,US,United States of America,English
+168,623627,tt8988748,2019-09-21,0,0,Drama,Español,Diecisiete,ES,Spain,Español
+169,517909,tt5865326,2019-09-27,0,0,Drama,普通话,The Laundromat,US,United States of America,普通话
+170,639411,tt11066130,2019-10-18,0,0,Comedy,हिन्दी,Upstarts,IN,India,हिन्दी
+171,528888,tt8526872,2019-10-04,0,0,Drama,English,Dolemite Is My Name,US,United States of America,English
+172,560362,tt9257484,2019-10-25,0,0,Thriller,English,Rattlesnake,US,United States of America,English
+173,504949,tt7984766,2019-10-11,0,0,Drama,English,The King,AU,Australia,English
+174,622963,tt9664078,2019-09-12,0,0,Drama,English,American Son,US,United States of America,English
+175,64690,tt0780504,2011-08-06,15000000,78054825,Drama,English,Drive,US,United States of America,English
+176,636698,tt9646240,2019-10-21,0,0,Fantasy,English,L'uomo senza gravità,BE,Belgium,English
+177,531438,tt8510488,2019-11-06,0,0,Romance,English,Holiday in the Wild,US,United States of America,English
+178,295151,tt1950235,2019-11-08,0,0,Romance,English,Let It Snow,US,United States of America,English
+179,513409,tt8178486,2019-11-01,0,0,Drama,English,Earthquake Bird,JP,Japan,English
+180,18862,tt0116571,1996-08-14,0,0,Comedy,English,House Arrest,US,United States of America,English
+181,508965,tt4729430,2019-11-08,0,0,Animation,English,Klaus,ES,Spain,English
+182,611207,tt10060094,2019-11-21,0,0,Romance,English,The Knight Before Christmas,US,United States of America,English
+183,398978,tt1302006,2019-11-01,159000000,8000000,Crime,English,The Irishman,US,United States of America,English
+184,639609,tt10091530,2019-11-28,0,0,Drama,English,Holiday Rush,US,United States of America,English
+185,625248,tt11156614,2019-11-17,0,0,Thriller,English,Dead Kids,PH,Philippines,English
+186,587693,tt10006006,2019-12-05,0,0,Romance,Türkçe,A Christmas Prince: The Royal Baby,US,United States of America,Türkçe
+187,492188,tt7653254,2019-11-06,19000000,2300000,Drama,English,Marriage Story,GB,United Kingdom,English
+188,509967,tt8106534,2019-12-13,150000000,0,Action,English,6 Underground,US,United States of America,English
+189,551332,tt8404614,2019-11-27,0,232638,Drama,English,The Two Popes,US,United States of America,English
+190,654299,tt10946934,2019-12-24,0,0,Comedy,Español,Como caído del cielo,MX,Mexico,Español
+191,653522,tt11385066,2019-12-26,0,0,Drama,Italiano,The App,IT,Italy,Italiano
+192,169864,tt2466830,2013-09-20,0,0,Documentary,English,The Short Game,US,United States of America,English
+193,401246,tt4995790,2017-08-25,0,1502347,Drama,English,The Square,DK,Denmark,English
+194,250769,tt1757800,2014-01-17,0,0, ,English,Mitt, , , 
+195,250700,tt3445270,2014-01-20,0,0,Documentary,English,The Battered Bastards of Baseball,US,United States of America,English
+196,286407,tt2004304,2014-01-30,0,0,Documentary,English,Mission Blue,US,United States of America,English
+197,253266,tt3557464,2014-03-09,0,0,Documentary,English,Print the Legend,US,United States of America,English
+198,250653,tt3456090,2014-01-18,0,0, ,English,E-Team, , , 
+199,263614,tt3455224,2014-11-07,0,0,Documentary,Français,Virunga,CD,Congo,Français
+200,285595,tt3356434,2014-03-06,0,0,Comedy,English,My Own Man,US,United States of America,English
+201,261039,tt3692768,2014-04-20,0,0, ,English,"The Other One: The Long, Strange Trip of Bob Weir", , , 
+202,318256,tt4382552,2015-05-29,0,0,Documentary,English,Hot Girls Wanted,US,United States of America,English
+203,318044,tt4284010,2015-01-22,0,0,Documentary,English,"What Happened, Miss Simone?",US,United States of America,English
+204,318225,tt3986532,2015-04-23,0,0,Documentary,English,Tig,US,United States of America,English
+205,360341,tt4900018,2015-09-18,0,0,Documentary,English,Keith Richards: Under the Influence,US,United States of America,English
+206,355020,tt4908644,2015-10-09,0,0,Documentary,English,Winter on Fire: Ukraine's Fight for Freedom,GB,United Kingdom,English
+207,381071,tt3815136,2014-11-21,0,0,Documentary,English,My Beautiful Broken Brain,GB,United Kingdom,English
+208,390520,tt5598216,2016-04-18,0,0,Documentary,English,Team Foxcatcher,US,United States of America,English
+209,376426,tt5151716,2016-07-15,0,0,Documentary,English,Tony Robbins: I Am Not Your Guru,US,United States of America,English
+210,3515,tt0319531,2003-05-14,0,490964,Drama,English,I'll Sleep When I'm Dead,GB,United Kingdom,English
+211,393443,tt5538078,2016-04-17,0,0,Documentary,English,Extremis,US,United States of America,English
+212,416211,tt6073176,2016-09-16,0,0,Documentary,العربية,The White Helmets,SY,Syrian Arab Republic,العربية
+213,376228,tt5278460,2016-09-23,0,0,Documentary,English,Audrie & Daisy,US,United States of America,English
+214,411009,tt5952332,2016-09-10,0,0,Documentary,English,Amanda Knox,DK,Denmark,English
+215,407806,tt5895028,2016-10-07,0,0,Documentary,English,13th,US,United States of America,English
+216,376389,tt5278930,2017-09-22,0,0,Documentary,English,Sky Ladder: The Art of Cai Guo-Qiang,CN,China,English
+217,360029,tt4846318,2016-09-07,0,0,Documentary,,Into the Inferno,CA,Canada,
+218,411023,tt5952266,2016-09-02,0,0,Documentary,English,The Ivory Game,AT,Austria,English
+219,430826,tt6333052,2017-04-28,0,0,Documentary,English,Casting JonBenet,AU,Australia,English
+220,433878,tt6333096,2017-01-20,0,0,Documentary,English,The Mars Generation,US,United States of America,English
+221,448448,tt6714534,2017-04-23,0,0,Documentary,English,Get Me Roger Stone,US,United States of America,English
+222,450628,tt6791240,2017-05-18,0,0,Documentary,Português,Laerte-se,BR,Brazil,Português
+223,433084,tt6333072,2017-01-20,0,0, ,English,Joshua: Teenager vs. Superpower, , , 
+224,462104,tt7022034,2017-06-16,1300000,0,Documentary,Português,Counterpunch,US,United States of America,Português
+225,430830,tt6333064,2017-01-24,0,0,Documentary,English,Nobody Speak: Trials of the Free Press,NL,Netherlands,English
+226,432615,tt6333054,2017-03-16,0,0,Documentary,English,Chasing Coral,US,United States of America,English
+227,432976,tt6333060,2017-06-03,0,0,Documentary,Pусский,Icarus,US,United States of America,Pусский
+228,473545,tt6081408,2017-04-23,0,0,Documentary,English,Resurface,US,United States of America,English
+229,475345,tt7389366,2017-09-03,0,0,Documentary,English,Heroin(e),US,United States of America,English
+230,428612,tt5873150,2017-01-23,0,0,Documentary,English,Strong Island,US,United States of America,English
+231,472424,tt7291268,2017-09-08,0,0,Documentary,English,Gaga: Five Foot Two,US,United States of America,English
+232,459992,tt2139881,2019-05-02,40000000,53847136,Comedy,Français,Long Shot,US,United States of America,Français
+233,448444,tt5233558,2017-07-27,0,0,Documentary,English,The Death and Life of Marsha P. Johnson,US,United States of America,English
+234,473313,tt7321274,2017-10-07,0,0,Documentary,English,Kingdom of Us,GB,United Kingdom,English
+235,474569,tt7214842,2017-09-10,0,0,Documentary,English,One of Us,US,United States of America,English
+236,473408,tt7253506,2017-10-11,0,0,Documentary,English,Joan Didion: The Center Will Not Hold,US,United States of America,English
+237,469019,tt7214762,2017-09-05,0,0,Documentary,English,"Jim & Andy: The Great Beyond- Featuring a Very Special, Contractually Obligated Mention of Tony Clifton",CA,Canada,English
+238,483010,tt6185286,2017-08-25,0,0,Documentary,English,Saving Capitalism,US,United States of America,English
+239,474433,tt7320560,2017-09-08,0,0,Documentary,English,Cuba and the Cameraman,US,United States of America,English
+240,473415,tt7588790,2017-10-04,0,0,Documentary,English,Voyeur,US,United States of America,English
+241,490818,tt7689924,2018-01-21,0,0,Documentary,English,Seeing Allred,US,United States of America,English
+242,489354,tt7924820,2018-01-19,0,0,Documentary,ქართული,სოვდაგარი,GE,Georgia,ქართული
+243,492184,tt6896078,2017-07-07,450000,0,Documentary,हिन्दी,Ladies First,IN,India,हिन्दी
+244,502166,tt7983844,2018-03-09,0,0,Documentary,English,Take Your Pills,US,United States of America,English
+245,491104,tt6089564,2017-09-24,0,0,Documentary,English,"Ram Dass, Going Home",US,United States of America,English
+246,511791,tt8139850,2018-04-08,0,0,Documentary,English,Mercury 13,IE,Ireland,English
+247,510073,tt8106570,2018-04-23,0,0,Documentary,English,The Rachel Divide,US,United States of America,English
+248,9727,tt0415778,2006-03-22,5000000,0,Action,English,End Game,CA,Canada,English
+249,522393,tt8167872,2018-05-01,0,0,Documentary,English,Recovery Boys,US,United States of America,English
+250,511815,tt8106576,2018-07-27,0,0,Documentary,English,The Bleeding Edge,US,United States of America,English
+251,507389,tt7820962,2018-01-18,0,0,Documentary,English,Zion,US,United States of America,English
+252,47821,tt0103976,1992-04-15,27000000,14683921,Drama,English,City of Joy,FR,France,English
+253,545634,tt8948614,2018-09-01,0,0,Documentary,English,Reversing Roe,US,United States of America,English
+254,504561,tt7440432,2018-09-21,0,0,Documentary,English,Quincy,US,United States of America,English
+255,549599,tt8893608,2018-09-28,0,0, ,Català,Dos Cataluñas, , , 
+256,507618,tt5419676,2018-02-19,700000,0,Documentary,English,Feminists: What Were They Thinking?,US,United States of America,English
+257,553539,tt9046548,2018-10-12,0,0, ,English,ReMastered: Who Shot the Sheriff, , , 
+258,489994,tt7472352,2018-01-21,0,0,Documentary,English,Shirkers,SG,Singapore,English
+259,538002,tt6893836,2018-08-31,0,0,Documentary,Hrvatski,They'll Love Me When I'm Dead,US,United States of America,Hrvatski
+260,553649,tt9046556,2018-11-02,0,0,Documentary,English,ReMastered: Tricky Dick & The Man in Black,US,United States of America,English
+261,520370,tt8106160,2018-12-07,0,0,Documentary,English,The American Meme,US,United States of America,English
+262,561230,tt9283302,2018-12-12,0,0,Documentary,English,"Out of Many, One",US,United States of America,English
+263,565255,tt9316022,2018-12-21,0,0,Documentary,Polski,Struggle: The Life and Lost Art of Szukalski,PL,Poland,Polski
+264,553651,tt9046562,2019-01-11,0,0,Documentary,Español,ReMastered: Massacre at the Stadium,CL,Chile,Español
+265,553646,tt9046564,2019-02-08,0,0, ,English,ReMastered: The Two Killings of Sam Cooke, , , 
+266,524288,tt6939026,2018-04-05,0,0,Documentary,English,Period. End of Sentence.,US,United States of America,English
+267,589116,tt9817308,2019-03-21,0,0,Documentary,Français,Antoine Griezmann: The Making of a Legend,GB,United Kingdom,Français
+268,553644,tt9046568,2019-03-22,0,0, ,English,ReMastered: The Miami Showband Massacre, , , 
+269,589023,tt8106596,2018-04-20,0,0,Documentary,English,The Legend of Cocaine Island,US,United States of America,English
+270,593691,tt10147546,2019-04-17,0,0,Documentary,English,Homecoming: A Film by Beyoncé,US,United States of America,English
+271,596204,tt10050766,2019-04-19,0,0, ,English,Brené Brown: The Call to Courage, , , 
+272,589871,tt10050782,2019-04-20,0,0, ,English,Grass Is Greener, , , 
+273,553645,tt9046574,2019-04-26,0,0,Documentary,English,ReMastered: Devil at the Crossroads,US,United States of America,English
+274,565312,tt9358052,2019-01-27,0,0,Documentary,English,Knock Down the House,US,United States of America,English
+275,595399,tt9097148,2019-05-03,0,0,Documentary,English,All in My Family,CN,China,English
+276,601516,tt9046576,2019-05-17,0,0,Documentary,English,ReMastered: The Lion's Share,US,United States of America,English
+277,602760,tt10243660,2019-05-22,0,0,Documentary,English,A Tale of Two Kitchens,MX,Mexico,English
+278,600700,tt10136680,2019-04-28,0,0,Documentary,Español,After Maria,US,United States of America,Español
+279,606215,tt10289996,2019-06-07,0,0,Documentary,English,The Black Godfather,US,United States of America,English
+280,574638,tt9577852,2019-06-11,0,0,Documentary,English,Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese,US,United States of America,English
+281,593280,tt9204606,2019-01-26,0,0,Documentary,English,Life Overtakes Me,US,United States of America,English
+282,566221,tt6016744,2019-01-24,0,0,Documentary,Português,Democracia em Vertigem,BR,Brazil,Português
+283,587910,tt10511826,2019-03-12,0,0,Documentary,Español,Parchís: el documental,ES,Spain,Español
+284,566222,tt4736550,2019-01-26,0,0,Documentary,English,The Great Hack,US,United States of America,English
+285,616904,tt10662450,2019-08-05,0,0,Documentary,English,Enter the Anime,US,United States of America,English
+286,565716,tt9351980,2019-08-21,0,0,Documentary,普通话,American Factory,US,United States of America,普通话
+287,625561,tt10856726,2019-08-28,0,0,Documentary,English,Travis Scott: Look Mom I Can Fly,US,United States of America,English
+288,627133,tt10924716,2019-08-30,0,0,Documentary,English,The Crystal Calls - Making The Dark Crystal: Age of Resistance,US,United States of America,English
+289,21868,tt0298856,2002-12-13,0,0,Drama,English,Evelyn,IE,Ireland,English
+290,628039,tt10847138,2019-09-13,0,0,Documentary,English,"Hello, Privilege. It's Me, Chelsea",US,United States of America,English
+291,630750,tt10857582,2019-09-05,0,0,Music,English,Los Tigres del Norte at Folsom Prison,US,United States of America,English
+292,632602,tt10907798,2019-09-25,0,0,Documentary,English,Birders,MX,Mexico,English
+293,586245,tt9671828,2019-01-26,0,0,Documentary,English,Ghosts of Sugar Land,US,United States of America,English
+294,627070,tt10915286,2019-10-18,0,0,Documentary,English,Tell Me Who I Am,GB,United Kingdom,English
+295,634541,tt11101698,2019-10-23,0,0, ,English,Dancing with the Birds, , , 
+296,636709,tt11052346,2019-05-03,0,0,Documentary,English,It Takes a Lunatic,US,United States of America,English
+297,617331,tt9098586,2018-11-20,0,0,Documentary,English,A 3 Minute Hug,MX,Mexico,English
+298,587385,tt9195844,2018-10-18,0,0,Documentary,English,Little Miss Sumo,JP,Japan,English
+299,634754,tt11127056,2019-09-01,0,0,Documentary,English,Fire in Paradise,US,United States of America,English
+300,621753,tt10883004,2019-09-10,0,0,Documentary,English,"Bikram: Yogi, Guru, Predator",US,United States of America,English
+301,650614,tt11162992,2019-11-24,0,0,Documentary,Español,"Lorena, la de pies ligeros",MX,Mexico,Español
+302,650029,tt11324024,2019-12-19,0,0,Documentary,English,After the Raid,MX,Mexico,English
+303,538620,tt8900434,2019-10-13,0,0,Documentary,Español,"El Pepe, una vida suprema",AR,Argentina,Español
+304,364067,tt4537842,2015-12-04,0,0,Comedy,English,A Very Murray Christmas,US,United States of America,English
+305,408619,tt5001772,2016-09-13,0,0,Music,English,Justin Timberlake + The Tennessee Kids,US,United States of America,English
+306,437443,tt6491068,2017-01-26,0,0,Documentary,English,13th: A Conversation with Oprah Winfrey & Ava DuVernay,US,United States of America,English
+307,430780,tt6343706,2017-02-07,0,0,Comedy,English,"Michael Bolton's Big, Sexy Valentine's Day Special",US,United States of America,English
+308,454854,tt6624312,2017-04-28,0,0,Drama,English,Rodney King,US,United States of America,English
+309,485157,tt7588584,2017-11-22,0,0,Music,English,Barbra: The Music ... The Mem'ries ... The Magic!,US,United States of America,English
+310,554175,tt9077188,2018-10-19,0,0,TV Movie,English,Derren Brown: Sacrifice,US,United States of America,English
+311,561556,tt9203030,2018-11-13,0,0, ,English,Loudon Wainwright III: Surviving Twin, , , 
+312,563708,tt8716334,2018-12-16,0,0, ,English,Springsteen On Broadway, , , 
+313,568332,tt9426852,2018-12-31,0,0,Music,English,Taylor Swift: Reputation Stadium Tour,US,United States of America,English
+314,580001,tt6373518,2019-02-08,0,0, ,English,Kevin Hart's Guide to Black History, , , 
+315,602310,tt9880234,2019-05-14,0,0, ,English,Still Laugh-In: The Stars Celebrate, , , 
+316,610120,tt10516984,2019-06-27,0,0,Music,English,Anima,CZ,Czech Republic,English
+317,612701,tt10516390,2019-07-16,0,0,Comedy,English,"Frankenstein's Monster's Monster, Frankenstein",US,United States of America,English
+318,439059,tt6172460,2019-07-24,0,0,Comedy,English,Rocko's Modern Life: Static Cling,US,United States of America,English
+319,472983,tt6739094,2019-08-16,0,0,Animation,English,Invader ZIM: Enter the Florpus,US,United States of America,English
+320,628756,tt10937318,2019-09-04,0,0,Documentary,English,American Factory: A Short Conversation with the Obamas,US,United States of America,English
+321,683021,tt11151792,2019-10-28,0,0,Documentary,English,The Road to El Camino: Behind the Scenes of El Camino: A Breaking Bad Movie,US,United States of America,English
+322,651724,tt11353562,2019-11-27,0,0,Documentary,English,The Irishman: In Conversation,US,United States of America,English
+323,367735,tt5069564,2015-11-13,0,0,Comedy,English,John Mulaney: The Comeback Kid,US,United States of America,English
+324,19150,tt0198386,2000-08-21,0,0,Action,Español,The Crew,US,United States of America,Español
+325,309809,tt1754656,2015-07-29,64000000,97571250,Adventure,English,The Little Prince,FR,France,English
+326,457258,tt2782692,2017-08-31,0,0,Comedy,العربية,Ali's Wedding,AU,Australia,العربية
+327,376659,tt4651520,2016-07-28,20000000,183936074,Comedy,Pусский,Bad Moms,US,United States of America,Pусский
+328,301804,tt3174376,2016-04-07,0,3295624,Drama,English,Before I Wake,US,United States of America,English
+329,587,tt0319061,2003-12-25,70000000,123218424,Adventure,English,Big Fish,US,United States of America,English
+330,340027,tt3704700,2017-02-22,0,0,Drama,English,Brain on Fire,IE,Ireland,English
+331,339792,tt3137630,2016-08-19,0,0,Comedy,English,David Brent: Life on the Road,GB,United Kingdom,English
+332,393729,tt4730986,2016-08-31,2791874,0,Drama,Français,Divines,FR,France,Français
+333,338766,tt2582782,2016-08-12,12000000,37589296,Crime,English,Hell or High Water,US,United States of America,English
+334,395763,tt5598110,2016-11-16,0,0,Thriller,Français,Iris,FR,France,Français
+335,396920,tt4641248,2016-11-30,0,0,Drama,,Le voyage au Groenland,GL,Greenland,
+336,140300,tt2267968,2016-01-23,145000000,521170825,Action,English,Kung Fu Panda 3,CN,China,English
+337,411038,tt5712152,2016-11-17,0,0,Drama,العربية,Layla M.,NL,Netherlands,العربية
+338,393731,tt4530968,2016-10-05,0,0,Drama,Français,Mercenaire,FR,France,Français
+339,301355,tt1712192,2016-09-13,10000000,0,Thriller,English,Message from the King,FR,France,English
+340,369883,tt4981636,2016-10-07,8500000,23316139,Family,English,Middle School: The Worst Years of My Life,US,United States of America,English
+341,381518,tt4799064,2016-10-09,0,0,Comedy,English,Mindhorn,GB,United Kingdom,English
+342,429450,tt6302160,2016-12-07,13938145,30169000,Thriller,한국어/조선말,판도라,KR,South Korea,한국어/조선말
+343,371463,tt4365518,2016-01-25,0,0,Drama,العربية,Sufat Chol,IL,Israel,العربية
+344,37532,tt0139615,1998-10-07,1,0, , , , , , 
+345,404791,tt4940370,2016-12-25,10000000,0,Adventure,Deutsch,Hundraettåringen som smet från notan och försvann,SE,Sweden,Deutsch
+346,264402,tt2197926,2016-03-06,0,0,Drama,Español,La 4ª compañía,MX,Mexico,Español
+347,316154,tt4334266,2017-06-23,6000000,180851,Drama,English,The Bad Batch,US,United States of America,English
+348,325373,tt4412528,2016-10-02,0,0,Drama,English,Two Lovers and a Bear,CA,Canada,English
+349,347984,tt4703048,2017-08-03,1500000,0,Action,English,6 Days,NZ,New Zealand,English
+350,431530,tt6359956,2017-08-04,28000000,130560428,Comedy,English,A Bad Moms Christmas,US,United States of America,English
+351,448776,tt4080956,2018-05-24,0,958883,Drama,English,A Prayer Before Dawn,KH,Cambodia,English
+352,563710,tt7829544,2017-12-02,0,0,Animation,English,Angela's Christmas,IE,Ireland,English
+353,13913,tt0020640,1930-08-28,0,0,Comedy,English,Animal Crackers,US,United States of America,English
+354,397837,tt1691916,2017-03-02,5000000,12141122,Drama,English,Before I Fall,US,United States of America,English
+355,426284,tt5084170,2017-04-29,0,150532,Action,日本語,無限の住人,JP,Japan,日本語
+356,460059,tt6340604,2018-01-03,0,0,Action,Français,Burn Out,FR,France,Français
+357,430354,tt4720702,2017-07-30,0,0,Thriller,English,Bushwick,US,United States of America,English
+358,461957,tt5827360,2017-06-18,0,0,Romance,English,Catching Feelings,ZA,South Africa,English
+359,477033,tt5592878,2018-03-02,0,0,Drama,euskera,Errementari,FR,France,euskera
+360,488623,tt7057496,2017-11-29,0,9900000,Thriller,한국어/조선말,기억의 밤,KR,South Korea,한국어/조선말
+361,449574,tt5979874,2017-11-17,0,0,Action,日本語,GODZILLA 怪獣惑星,JP,Japan,日本語
+362,429200,tt4846232,2017-08-11,0,3283369,Crime,English,Good Time,US,United States of America,English
+363,427900,tt5719700,2017-09-07,12000000,27020284,Comedy,English,Home Again,US,United States of America,English
+364,293768,tt1458169,2017-06-16,21000000,30718107,Drama,English,Kidnap,GB,United Kingdom,English
+365,419635,tt1880399,2017-09-08,0,0,Drama,English,Kodachrome,US,United States of America,English
+366,436994,tt6830780,2017-02-22,5000000,0,Science Fiction,한국어/조선말,루시드 드림,KR,South Korea,한국어/조선말
+367,475517,tt7252000,2017-09-06,0,0,Comedy,עִבְרִית,מכתוב,IL,Israel,עִבְרִית
+368,414425,tt2396589,2017-11-16,10000000,0,Drama,English,Mudbound,US,United States of America,English
+369,432226,tt5791536,2017-05-10,0,0,Drama,ქართული,ჩემი ბედნიერი ოჯახი,FR,France,ქართული
+370,436343,tt5607714,2017-03-02,0,0,Drama,Magyar,Testről és lélekről,HU,Hungary,Magyar
+371,437311,tt3469798,2017-04-07,0,0,Drama,Español,Órbita 9,ES,Spain,Español
+372,10212,tt0129332,1999-03-16,12000000,0,Horror,English,Ravenous,CZ,Czech Republic,English
+373,432870,tt5870322,2017-09-28,0,0,Adventure,Deutsch,Rock my Heart,DE,Germany,Deutsch
+374,7364,tt0318649,2005-04-06,130000000,119269486,Action,English,Sahara,DE,Germany,English
+375,435841,tt6769508,2017-12-14,0,32783733,Action,한국어/조선말,강철비,KR,South Korea,한국어/조선말
+376,480007,tt6506146,2017-11-30,0,0,Horror,Bahasa indonesia,Mata Batin,ID,Indonesia,Bahasa indonesia
+377,339988,tt4287320,2017-04-27,18000000,20497844,Drama,English,The Circle,US,United States of America,English
+378,421447,tt5157682,2017-01-25,6600000,0,Comedy,Deutsch,L'Ascension,FR,France,Deutsch
+379,379149,tt1615160,2017-09-28,35000000,145374099,Action,普通话,The Foreigner,GB,United Kingdom,普通话
+380,390043,tt1959563,2017-08-16,30000000,176586701,Thriller,Français,The Hitman's Bodyguard,BG,Bulgaria,Français
+381,437036,tt5451244,2017-11-17,2691410,0,Drama,Español,El autor,MX,Mexico,Español
+382,433808,tt5638642,2017-10-11,10000000,1785977,Horror,English,The Ritual,CA,Canada,English
+383,437380,tt6347150,2018-03-09,0,0,Romance,Español,Bajo la piel de lobo,ES,Spain,Español
+384,365942,tt3922818,2017-01-26,30000000,14793385,Romance,English,The Space Between Us,US,United States of America,English
+385,406990,tt1536537,2017-08-18,0,27975429,Science Fiction,English,What Happened to Monday,BE,Belgium,English
+386,412105,tt5539054,2017-06-19,0,0,Thriller,English,You Get Me,US,United States of America,English
+387,537526,tt8726116,2019-02-06,0,0,Mystery,বাংলা,幻土,FR,France,বাংলা
+388,514575,tt6792282,2018-09-20,0,0,Drama,Español,La noche de 12 años,AR,Argentina,Español
+389,355279,tt3547616,2015-08-21,0,0, , , , , , 
+390,489982,tt6776106,2018-08-17,0,0,Drama,English,Andið eðlilega,BE,Belgium,English
+391,300668,tt2798920,2018-02-22,40000000,43070915,Science Fiction,English,Annihilation,GB,United Kingdom,English
+392,396806,tt5397194,2018-05-03,20000000,0,Science Fiction,English,Anon,US,United States of America,English
+393,491472,tt6938828,2018-11-15,0,0,Drama,English,At Eternity's Gate,FR,France,English
+394,81527,tt1403047,2011-03-11,0,0,Drama,Română,Aurora,FR,France,Română
+395,498249,tt6708116,2018-11-21,0,0,Comedy,Français,Mauvaises herbes,FR,France,Français
+396,513574,tt6854672,2018-09-28,1158003,0,Drama,English,Battle,DK,Denmark,English
+397,495659,tt6472116,2018-11-09,2400000,0,Drama,English,Bayoneta,FI,Finland,English
+398,399248,tt4669264,2018-04-11,0,7258534,Action,English,Beirut,US,United States of America,English
+399,420426,tt5979872,2018-07-20,3598902,4001919,Action,日本語,Bleach,JP,Japan,日本語
+400,467673,tt7027092,2018-06-27,0,0,Comedy,Français,Budapest,FR,France,Français
+401,541340,tt4397342,2018-12-13,0,0,Crime,普通话,幸福城市,CN,China,普通话
+402,484901,tt6527586,2018-10-03,0,0,Drama,العربية,Frères ennemis,BE,Belgium,العربية
+403,563943,tt6774588,2018-08-23,0,0,Drama,Français,Curtiz,HU,Hungary,Français
+404,522144,tt6603812,2018-09-06,0,0,Crime,Bahasa indonesia,Crossroads: One Two Jaga,MY,Malaysia,Bahasa indonesia
+405,524087,tt8443704,2018-11-02,0,0,Romance,普通话,誰先愛上他的,TW,Taiwan,普通话
+406,493655,tt7763020,2018-03-01,0,0,Drama,suomi,Довлатов,RU,Russia,suomi
+407,510338,tt6312802,2018-06-21,0,0,Comedy,Español,Dry Martina,AR,Argentina,Español
+408,375107,tt4940416,2018-03-09,0,0,Animation,普通话,Duck Duck Goose,CN,China,普通话
+409,472734,tt4878482,2018-12-20,0,0,Comedy,English,Dumplin',US,United States of America,English
+410,210577,tt2267998,2014-10-01,61000000,369330363,Mystery,English,Gone Girl,US,United States of America,English
+411,449684,tt4725842,2019-07-26,0,0,Horror,Français,Girls with Balls,BE,Belgium,Français
+412,466876,tt5851786,2017-11-02,0,0,Adventure,English,Gnome Alone,CA,Canada,English
+413,492719,tt8015080,2018-05-18,0,0,Animation,Español,GODZILLA 決戦機動増殖都市,JP,Japan,Español
+414,536115,tt8478602,2018-11-03,0,0,Science Fiction,日本語,GODZILLA -星を喰う者-,JP,Japan,日本語
+415,409582,tt4915672,2018-01-19,0,7910928,Action,English,7 Guardians of the Tomb,AU,Australia,English
+416,529210,tt7104984,2018-10-11,0,0,Drama,Español,La sombra de la ley,FR,France,Español
+417,481432,tt6752992,2018-05-31,0,0,Drama,Italiano,Lazzaro felice,FR,France,Italiano
+418,11424,tt0049314,1956-07-17,2000000,0,Comedy,Français,High Society,US,United States of America,Français
+419,527246,tt8435268,2018-05-31,0,0,Comedy,Español,Soltera codiciada,PE,Peru,Español
+420,548537,tt8168186,2018-11-23,0,0,Drama,Français,Jonas,FR,France,Français
+421,517298,tt7527538,2018-05-04,0,0,Comedy,Español,Jefe,ES,Spain,Español
+422,274479,tt2446980,2015-12-24,60000000,101134059,Drama,Español,Joy,US,United States of America,Español
+423,524736,tt8512746,2018-06-14,0,0,Horror,Bahasa indonesia,Kuntilanak,ID,Indonesia,Bahasa indonesia
+424,515911,tt7530986,2018-09-12,0,4100000,Drama,Français,Mademoiselle de Joncquières,FR,France,Français
+425,481375,tt2386237,2020-11-19,0,0,Horror,English,Malevolent,GB,United Kingdom,English
+426,524738,tt8765496,2018-08-09,0,0,Horror,Bahasa indonesia,Sebelum Iblis Menjemput,ID,Indonesia,Bahasa indonesia
+427,529216,tt6908274,2018-11-30,0,17325485,Science Fiction,Español,Durante la tormenta,ES,Spain,Español
+428,544530,tt7059506,2018-08-29,0,0,Horror,Bahasa melayu,Munafik 2,MY,Malaysia,Bahasa melayu
+429,530442,tt6997574,2018-06-12,0,0,Drama,English,"My Teacher, My Obsession",US,United States of America,English
+430,487476,tt7489816,2018-10-17,0,0,Drama,Français,Le Jeu,FR,France,Français
+431,493551,tt5208252,2018-08-29,24000000,17506878,Drama,Deutsch,Operation Finale,AR,Argentina,Deutsch
+432,529790,tt5541002,2018-12-12,0,0,Adventure,Français,Pachamama,CA,Canada,Français
+433,546230,tt9063106,2018-09-27,0,0,Action,Bahasa melayu,Paskal,MY,Malaysia,Bahasa melayu
+434,513223,tt7841496,2018-04-19,667000,0,Drama,Español,Perdida,AR,Argentina,Español
+435,517829,tt7527694,2018-03-03,0,0,Drama,Español,Pickpockets,CO,Colombia,Español
+436,538528,tt8595708,2018-07-26,24000000,0,Drama,普通话,Pulang,MY,Malaysia,普通话
+437,557968,tt9426186,2018-12-06,0,0,Action,English,리벤져,KR,South Korea,English
+438,21309,tt0091860,1986-08-27,19000000,0,Crime,English,River's Edge,US,United States of America,English
+439,6620,tt0047437,1954-09-28,2238813,10000000,Comedy,English,Sabrina,US,United States of America,English
+440,449019,tt6599742,2018-02-02,1000000,0,Thriller,English,El cuaderno de Sara,ES,Spain,English
+441,503616,tt2126357,2018-11-22,16000000,72282227,Romance,English,Second Act,US,United States of America,English
+442,518671,tt8459250,2018-09-05,0,0,Drama,Français,Shéhérazade,FR,France,Français
+443,29621,tt0117688,1996-08-23,0,0,Action,English,Solo,US,United States of America,English
+444,442811,tt6053948,2018-02-23,105000,0,Drama,Français,La enfermedad del domingo,ES,Spain,Français
+445,551300,tt9044128,2018-11-15,0,0,Horror,Bahasa indonesia,Suzzanna: Bernapas Dalam Kubur,ID,Indonesia,Bahasa indonesia
+446,486225,tt4766630,2018-07-05,0,0,Comedy,עִבְרִית,Wolkenbruchs wunderliche Reise in die Arme einer Schickse,DE,Germany,עִבְרִית
+447,502143,tt6728096,2018-05-03,0,0,Comedy,English,The Breaker Upperers,NZ,New Zealand,English
+448,555605,tt7497366,2018-11-02,0,0,Drama,,The Burial of Kojo,GH,Ghana,
+449,497370,tt6914542,2018-12-19,0,0,Crime,한국어/조선말,마약왕,KR,South Korea,한국어/조선말
+450,451480,tt1289403,2018-04-19,0,0,Romance,English,The Guernsey Literary & Potato Peel Pie Society,GB,United Kingdom,English
+451,489927,tt6952960,2018-09-23,0,0,Drama,English,The Kindergarten Teacher,US,United States of America,English
+452,437029,tt6053938,2018-04-20,4380014,0,Romance,English,Las leyes de la termodinámica,ES,Spain,English
+453,528949,tt6704776,2018-10-26,0,0,Thriller,Deutsch,El fotógrafo de Mauthausen,ES,Spain,Deutsch
+454,557336,tt8618118,2018-11-29,0,0,Crime,Polski,Plagi Breslau,PL,Poland,Polski
+455,497916,tt4610378,2018-03-08,0,0,War,Nederlands,Bankier van het Verzet,NL,Netherlands,Nederlands
+456,476926,tt4986098,2018-03-30,0,0,Science Fiction,English,The Titan,US,United States of America,English
+457,502350,tt6433832,2018-10-31,0,0,Drama,euskera,El árbol de la sangre,ES,Spain,euskera
+458,271397,tt1745787,2014-09-11,0,0,Drama,No Language,Плем'я,NL,Netherlands,No Language
+459,508018,tt3711510,2018-03-10,4642619,0,Thriller,Español,El aviso,ES,Spain,Español
+460,504603,tt6892462,2018-08-15,0,0,Comedy,English,Le monde est à toi,FR,France,English
+461,387827,tt6444140,2018-08-02,0,0,Drama,Español,Tiempo compartido,MX,Mexico,Español
+462,508747,tt8033592,2018-04-28,0,209221331,Drama,普通话,后来的我们,CN,China,普通话
+463,533992,tt3732280,2018-09-07,0,0,Thriller,Español,Cuando los ángeles duermen,ES,Spain,Español
+464,12227,tt0103247,1991-01-18,14000000,34793160,Action,English,White Fang,US,United States of America,English
+465,77118,tt0353545,2004-01-01,0,0,Action,English,I Accidentally Domed Your Son,US,United States of America,English
+466,517324,tt6502956,2018-08-31,0,0,Comedy,Español,Yucatán,ES,Spain,Español
+467,458005,tt6010628,2018-07-19,0,0,Science Fiction,English,Zoe,US,United States of America,English
+468,584427,tt8242160,2019-03-01,3410874,0,Comedy,Français,4 latas,FR,France,Français
+469,570735,tt6156138,2019-02-09,125000,0,Drama,日本語,37セカンズ,JP,Japan,日本語
+470,422803,tt6193408,2019-09-26,0,42880428,Comedy,English,A Shaun the Sheep Movie: Farmageddon,FR,France,English
+471,622951,tt10883506,2019-11-01,0,0,Drama,普通话,陽光普照,TW,Taiwan,普通话
+472,537915,tt4126476,2019-04-11,14000000,69497587,Drama,English,After,US,United States of America,English
+473,613183,tt9809140,2019-09-27,0,0,Comedy,Español,Todas las pecas del mundo,MX,Mexico,Español
+474,416153,tt4426464,2019-11-01,0,0,Animation,English,Arctic Dogs,CA,Canada,English
+475,496967,tt10199586,2019-10-02,1600000,0,Drama,English,Atlantique,BE,Belgium,English
+476,575771,tt5687236,2019-02-28,0,0,Thriller,Español,La misma sangre,AR,Argentina,Español
+477,591789,tt9010900,2019-03-29,0,0,Thriller,Deutsch,Boi,CN,China,Deutsch
+478,505600,tt1489887,2019-05-24,6000000,24849029,Comedy,English,Booksmart,US,United States of America,English
+479,327,tt0222851,2000-09-09,12000000,15250000,Crime,English,Brother,JP,Japan,English
+480,460321,tt5316540,2019-01-18,0,0,Action,English,Close,US,United States of America,English
+481,553608,tt8716800,2019-02-28,0,0,Romance,Deutsch,Cinderela Pop,BR,Brazil,Deutsch
+482,592867,tt10127562,2019-08-02,0,0,Animation,日本語,ドラゴンクエスト ユア・ストーリー,JP,Japan,日本語
+483,457799,tt2481498,2019-05-02,0,0,Thriller,English,"Extremely Wicked, Shockingly Evil and Vile",US,United States of America,English
+484,17182,tt0116260,1996-01-12,20000000,26877589,Thriller,한국어/조선말,Eye for an Eye,US,United States of America,한국어/조선말
+485,567973,tt9412268,2019-02-22,0,6890000,Action,Tiếng Việt,Hai Phượng,VN,Vietnam,Tiếng Việt
+486,622654,tt8246392,2019-11-06,0,0,Thriller,Français,Furie,FR,France,Français
+487,638605,tt8022904,2019-10-11,0,0,Comedy,Español,La boda de la abuela,MX,Mexico,Español
+488,602797,tt10061256,2019-06-28,0,0,Drama,日本語,ホットギミック ガールミーツボーイ,JP,Japan,日本語
+489,505948,tt6292852,2019-06-07,0,643593,Science Fiction,English,I Am Mother,AU,Australia,English
+490,586940,tt9806192,2019-11-06,0,0,Animation,Français,J'ai perdu mon corps,FR,France,Français
+491,512019,tt6869362,2019-01-18,0,0,Comedy,Español,Gente que viene y bah,ES,Spain,Español
+492,449563,tt2452244,2019-02-13,0,0,Comedy,English,Isn't It Romantic,US,United States of America,English
+493,574303,tt7738048,2019-03-20,0,0,Action,한국어/조선말,악질경찰,KR,South Korea,한국어/조선말
+494,600335,tt9213932,2019-05-16,0,0,Drama,Português,Kardec,BR,Brazil,Português
+495,611468,tt8613876,2019-06-29,0,0,Thriller,Deutsch,Kidnapping Stella,DE,Germany,Deutsch
+496,532620,tt8599746,2019-03-27,0,0,Comedy,Français,Let's Dance,FR,France,Français
+497,613090,tt9063902,2019-09-06,1450000,368430,Comedy,Español,Vivir dos veces,ES,Spain,Español
+498,591121,tt7594584,2019-03-07,0,0,Action,English,Maria,PH,Philippines,English
+499,577990,tt8442644,2019-02-01,0,9831515,Comedy,Türkçe,Organize İşler: Sazan Sarmalı,TR,Turkey,Türkçe
+500,582186,tt7200946,2019-02-14,0,0,Comedy,English,"Oh, Ramona!",RO,Romania,English
+501,571650,tt7511008,2019-02-20,0,0,Action,Français,Paradise Beach,FR,France,Français
+502,571891,tt8856470,2019-07-12,0,26654184,Animation,日本語,劇場版 ポケットモンスター ミュウツーの逆襲 EVOLUTION,JP,Japan,日本語
+503,532880,tt6736198,2019-06-07,0,0,Comedy,Español,Solteras,MX,Mexico,Español
+504,587301,tt8783532,2019-08-28,0,0,Drama,العربية,La vie scolaire,FR,France,العربية
+505,16320,tt0379786,2005-09-03,39000000,38869464,Science Fiction,English,Serenity,US,United States of America,English
+506,479,tt0162650,2000-06-15,46000000,107196498,Action,English,Shaft,DE,Germany,English
+507,559957,tt6628322,2019-08-09,30000000,0,Science Fiction,普通话,上海堡垒,CN,China,普通话
+508,556509,tt7299298,2019-02-20,0,0,Mystery,한국어/조선말,사바하,KR,South Korea,한국어/조선말
+509,567410,tt8535968,2019-09-19,0,0,Drama,Deutsch,Systemsprenger,DE,Germany,Deutsch
+510,573106,tt8890582,2019-01-11,0,0,Horror,Bahasa indonesia,Mata Batin 2,ID,Indonesia,Bahasa indonesia
+511,491480,tt7533152,2019-03-01,0,0,Drama,English,The Boy Who Harnessed the Wind,GB,United Kingdom,English
+512,585759,tt6445414,2019-11-08,0,0,Thriller,English,The Coldest Game,PL,Poland,English
+513,542928,tt7937168,2019-10-31,0,0,Drama,English,La trinchera infinita,ES,Spain,English
+514,200773,tt1688225,2010-03-03,0,0, ,한국어/조선말,인플루언스,KR,South Korea,한국어/조선말
+515,613099,tt7304802,2019-12-05,0,0,Thriller,Español,Legado en los huesos,ES,Spain,Español
+516,574374,tt9100028,2019-04-26,0,0, ,Español,La pequeña Suiza, , , 
+517,619264,tt8228288,2019-11-08,0,0,Drama,Español,El hoyo,ES,Spain,Español
+518,571495,tt9239888,2019-04-08,0,0,Crime,Italiano,Lo spietato,FR,France,Italiano
+519,527261,tt7315484,2019-05-16,0,2325977,Drama,Bosanski,The Silence,DE,Germany,Bosanski
+520,632931,tt8743032,2019-11-08,0,0,Thriller,Español,El silencio del pantano,ES,Spain,Español
+521,129070,tt2078768,2012-08-10,0,0,Drama,普通话,听风者,HK,Hong Kong,普通话
+522,35172,tt0291172,2002-05-23,0,0,Mystery,Français,Le Fils,BE,Belgium,Français
+523,535167,tt7605074,2019-02-05,48000000,0,Science Fiction,普通话,流浪地球,CN,China,普通话
+524,656926,tt10883274,2019-08-09,0,0, , , , , , 
+525,570503,tt10763618,2019-08-28,0,0,Romance,한국어/조선말,유열의 음악앨범,KR,South Korea,한국어/조선말
+526,542917,tt8393332,2019-10-25,0,0,Thriller,Español,El silencio de la ciudad blanca,ES,Spain,Español
+527,473033,tt5727208,2019-08-30,19000000,50020902,Crime,English,Uncut Gems,US,United States of America,English
+528,451184,tt6760876,2020-01-29,0,0,Drama,English,Wasp Network,BE,Belgium,English
+529,505423,tt5913798,2019-01-26,0,0,Horror,English,Wounds,GB,United Kingdom,English

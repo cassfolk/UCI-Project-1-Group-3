@@ -4,11 +4,16 @@ title.basics.tsv.gz
 movie_title.csv
 config.py
 
+
 .DS_Store
 
 # TO IGNORE
 api_keys.py
 config.py
+title.ratings.tsv
+movie_title.csv
+
+
 
 
 # Byte-compiled / optimized / DLL files
