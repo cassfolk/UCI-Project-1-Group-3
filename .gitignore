@@ -1,7 +1,6 @@
 OMDB_ignore_in_upload
 title.basics.tsv
 title.basics.tsv.gz
-movie_title.csv
 config.py
 
 
@@ -11,7 +10,6 @@ config.py
 api_keys.py
 config.py
 title.ratings.tsv
-movie_title.csv
 
 
 
