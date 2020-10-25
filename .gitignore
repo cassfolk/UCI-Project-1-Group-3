@@ -1,14 +1,17 @@
 OMDB_ignore_in_upload
 title.basics.tsv
 title.basics.tsv.gz
-movie_title.csv
 config.py
+
 
 .DS_Store
 
 # TO IGNORE
 api_keys.py
 config.py
+title.ratings.tsv
+
+
 
 
 # Byte-compiled / optimized / DLL files

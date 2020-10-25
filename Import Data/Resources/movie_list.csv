@@ -1,0 +1,652 @@
+,tconst,release_date,budget,revenue,genres,original_language,origin_country,production_countries name,spoken_languages name,Profit%
+0,tt0810819,2015-01-01,15000000,64191523,Drama,Français,DE,Germany,Français,327.94
+1,tt0884732,2015-01-16,23000000,79799880,Comedy,English,US,United States of America,English,246.96
+2,tt2250912,2017-07-05,175000000,880166924,Action,English,US,United States of America,English,402.95
+3,tt1014763,2015-03-15,50000000,3324330,Crime,English,GB,United Kingdom,English,-93.35
+4,tt1083452,2016-02-26,23000000,46152411,Comedy,Deutsch,DE,Germany,Deutsch,100.66
+5,tt1135989,2015-09-03,4000000,572212,Drama,עִבְרִית,US,United States of America,עִבְרִית,-85.69
+6,tt10963910,2019-08-22,20,1500, , , , , ,7400.0
+7,tt0461936,2006-10-20,5000000,15000000,Action,हिन्दी,IN,India,हिन्दी,200.0
+8,tt1340138,2015-06-23,155000000,440603537,Science Fiction,English,US,United States of America,English,184.26
+9,tt1392190,2015-05-13,150000000,378858340,Action,English,AU,Australia,English,152.57
+10,tt1398426,2015-08-13,28000000,201634991,Drama,English,US,United States of America,English,620.12
+11,tt1524575,2015-07-24,13000000,1784763,Thriller,English,US,United States of America,English,-86.27
+12,tt1596363,2015-12-11,28000000,133346506,Comedy,English,US,United States of America,English,376.24
+13,tt1618442,2015-10-21,90000000,146936910,Fantasy,English,US,United States of America,English,63.26
+14,tt1655441,2015-04-16,25000000,65663276,Fantasy,English,US,United States of America,English,162.65
+15,tt1727776,2015-10-23,15000000,14860766,Comedy,English,US,United States of America,English,-0.93
+16,tt1772288,2015-03-19,10000000,10835752,Comedy,English,US,United States of America,English,8.36
+17,tt1823672,2015-03-04,49000000,104399548,Crime,English,US,United States of America,English,113.06
+18,tt2002868,2015-02-13,5200000,8200000,Comedy,தமிழ்,IN,India,தமிழ்,57.69
+19,tt2140037,2015-12-31,25000000,1397284,Action,English,US,United States of America,English,-94.41
+20,tt2199571,2015-03-11,50000000,71561644,Action,English,US,United States of America,English,43.12
+21,tt2268016,2015-07-01,14800000,117813057,Comedy,English,US,United States of America,English,696.03
+22,tt2279339,2015-11-12,17000000,42426912,Comedy,English,US,United States of America,English,149.57
+23,tt2279373,2015-01-28,74000000,311594032,Adventure,English,US,United States of America,English,321.07
+24,tt2325977,2015-07-01,10000000,111107,Drama,English,AU,Australia,English,-98.89
+25,tt2381249,2015-07-23,150000000,682330139,Action,Deutsch,US,United States of America,Deutsch,354.89
+26,tt2395427,2015-04-22,250000000,1405403694,Action,English,US,United States of America,English,462.16
+27,tt2401878,2015-12-30,8000000,5659286,Animation,English,US,United States of America,English,-29.26
+28,tt2404425,2015-03-20,11000000,61619773,Drama,English,GB,United Kingdom,English,460.18
+29,tt2424988,2015-05-01,11000000,41000000,Drama,हिन्दी,IN,India,हिन्दी,272.73
+30,tt2436386,2015-01-28,12000000,32248241,Science Fiction,English,US,United States of America,English,168.74
+31,tt2452042,2015-11-01,99000000,246233113,Adventure,English,US,United States of America,English,148.72
+32,tt2473510,2015-10-21,10000000,78096553,Horror,English,US,United States of America,English,680.97
+33,tt2488496,2015-12-15,245000000,2068223624,Action,English,US,United States of America,English,744.17
+34,tt2555736,2015-02-26,10000000,85978266,Drama,English,GB,United Kingdom,English,759.78
+35,tt2558022,2016-02-18,10000,525000,Action,Deutsch,DE,Germany,Deutsch,5150.0
+36,tt2631186,2015-07-10,25130430,90747520,Action,,IN,India,,261.11
+37,tt2679042,2015-08-20,35000000,81967450,Action,English,ID,Indonesia,English,134.19
+38,tt2726560,2015-04-09,34000000,63013281,Drama,English,US,United States of America,English,85.33
+39,tt0056592,1962-12-25,2000000,13129846,Drama,English,US,United States of America,English,556.49
+40,tt2908446,2015-03-18,110000000,295238201,Action,English,US,United States of America,English,168.4
+41,tt2938956,2015-09-03,25000000,72629670,Thriller,English,BE,Belgium,English,190.52
+42,tt2979920,2015-05-15,18000000,1500000,Crime,हिन्दी,IN,India,हिन्दी,-91.67
+43,tt2980554,2015-06-13,8245,81379,Drama,English,US,United States of America,English,887.01
+44,tt3045616,2015-01-21,60000000,30418560,Comedy,English,US,United States of America,English,-49.3
+45,tt3072482,2015-09-12,10000000,14333790,Action,English,RU,Russia,English,43.34
+46,tt3164256,2015-10-22,15000000,3020664,Comedy,English,US,United States of America,English,-79.86
+47,tt3168230,2015-06-19,11000000,29355203,Drama,Français,GB,United Kingdom,Français,166.87
+48,tt3172532,2015-08-07,2000000,1477002,Drama,English,US,United States of America,English,-26.15
+49,tt1123372,2006-12-07,492,1, ,Bahasa melayu, , , ,-99.8
+50,tt3316948,2015-08-19,28000000,27139524,Comedy,English,CH,Switzerland,English,-3.07
+51,tt3411432,2015-04-09,6000000,769028,Animation,English,BE,Belgium,English,-87.18
+52,tt3422462,2015-08-07,3600000,830000,Comedy,हिन्दी,IN,India,हिन्दी,-76.94
+53,tt3447364,2015-04-02,5100000,5200000,Action,English,IN,India,English,1.96
+54,tt3460252,2015-12-25,44000000,155760117,Crime,Español,US,United States of America,Español,254.0
+55,tt3513068,2015-10-07,610000,1045, ,български език, , , ,-99.83
+56,tt3576728,2015-12-09,30000000,1750000,Action,English,AE,United Arab Emirates,English,-94.17
+57,tt3614530,2015-10-22,5000000,2333684,Drama,English,US,United States of America,English,-53.33
+58,tt3622592,2015-06-18,12000000,85512300,Drama,English,US,United States of America,English,612.6
+59,tt3623726,2015-07-10,18000000,41325328,Comedy,English,US,United States of America,English,129.59
+60,tt3626742,2015-11-20,4500000,38482411,Comedy,English,ES,Spain,English,755.16
+61,tt3633118,2015-03-26,10000000,1921923,Fantasy,English,MX,Mexico,English,-80.78
+62,tt3682448,2015-10-15,40000000,165478348,Thriller,Pусский,IN,India,Pусский,313.7
+63,tt3715320,2015-07-17,11000000,27391084,Drama,English,US,United States of America,English,149.01
+64,tt3722070,2015-11-13,6000000,41387687,Comedy,English,GB,United Kingdom,English,589.79
+65,tt3735246,2015-12-18,19500000,56000000,War,हिन्दी,IN,India,हिन्दी,187.18
+66,tt3766394,2015-11-27,1000000,14659448,Comedy,English,US,United States of America,English,1365.94
+67,tt3787590,2015-08-26,6000000,11122090,Drama,English,GB,United Kingdom,English,85.37
+68,tt3808342,2015-06-11,1000000,1777043,War,Deutsch,HU,Hungary,Deutsch,77.7
+69,tt3819668,2015-04-18,5000000,61768190,Action,日本語,JP,Japan,日本語,1135.36
+70,tt3830222,2015-10-30,3,2,Thriller,English,US,United States of America,English,-33.33
+71,tt3863552,2015-07-17,13000000,150000000,Action,हिन्दी,IN,India,हिन्दी,1053.85
+72,tt1730768,2017-03-31,20000000,26152835,Drama,English,CZ,Czech Republic,English,30.76
+73,tt4046784,2015-09-09,61000000,312296056,Action,English,US,United States of America,English,411.96
+74,tt4057376,2015-12-04,18000000,1776333,Fantasy,Pусский,RU,Russia,Pусский,-90.13
+75,tt4061010,2015-10-03,8000000,16458,Thriller,English,US,United States of America,English,-99.79
+76,tt4110568,2015-06-04,13000000,22000000,Drama,हिन्दी,IN,India,हिन्दी,69.23
+77,tt4142012,2015-04-05,32500,35000,Drama,,MV,Maldives,,7.69
+78,tt4142022,2015-01-29,1816720,4541800,Comedy,Italiano,IT,Italy,Italiano,150.0
+79,tt4176826,2015-10-08,3196621,25513752,Comedy,Deutsch,DE,Germany,Deutsch,698.15
+80,,,5,10, ,, , , ,100.0
+81,tt4258292,2015-02-06,7900000,16000000,Thriller,தமிழ்,IN,India,தமிழ்,102.53
+82,tt4271820,2015-04-16,940000,5100000,Romance,,IN,India,,442.55
+83,tt4276752,2015-12-18,37000000,278300000,Action,普通话,CN,China,普通话,652.16
+84,tt4285496,2015-05-25,1400000,1320005,Drama,Català,AR,Argentina,Català,-5.71
+85,tt4307968,2015-12-02,450000,1500000,Comedy,Nederlands,NL,Netherlands,Nederlands,233.33
+86,tt4337414,2015-01-10,500,100,Comedy,తెలుగు,IN,India,తెలుగు,-80.0
+87,tt4337690,2015-09-11,5000000,4842699,Drama,English,US,United States of America,English,-3.15
+88,tt4374460,2015-03-06,1379375,105097,Drama,Română,BG,Bulgaria,Română,-92.38
+89,tt4374502,2015-11-01,60000,3145, , , , , ,-94.76
+90,tt4415068,2015-02-19,2020000,5520000,Comedy,普通话,SG,Singapore,普通话,173.27
+91,tt4432480,2015-07-03,490000,5000000,Horror,?????,IN,India,?????,920.41
+92,tt4448050,2015-02-01,2000,2000, ,English,US,United States of America,English,0.0
+93,tt6946008,,15000,10000, , , , , ,-33.33
+94,tt4523112,2015-03-13,500000,500001,Drama,Türkçe,TR,Turkey,Türkçe,0.0
+95,tt4527664,2015-04-04,1500,53889,Comedy,English,US,United States of America,English,3492.6
+96,tt4557014,2015-03-27,670000,4700000,Comedy,,IN,India,,601.49
+97,tt4590218,2015-05-27,100000,100000,Documentary,Español,AR,Argentina,Español,0.0
+98,tt4597454,2015-04-10,1974853,3554736, , , , , ,80.0
+99,tt4625752,2015-05-07,2400000,3346518,Comedy,Pусский,RU,Russia,Pусский,39.44
+100,tt4643580,2015-09-04,5300000,9080818,Animation,Español,MX,Mexico,Español,71.34
+101,tt4644382,2015-07-10,10000000,150000000,Fantasy,广州话 / 廣州話,CN,China,广州话 / 廣州話,1400.0
+102,tt2660888,2016-07-07,185000000,343471816,Action,English,US,United States of America,English,85.66
+103,tt4686604,2015-05-07,3800000,488569,Drama,Pусский,RU,Russia,Pусский,-87.14
+104,tt4714204,2015-04-30,2000000,1683000,Comedy,Pусский,RU,Russia,Pусский,-15.85
+105,tt4788602,2015-03-07,46597700,32700000,Comedy,日本語,JP,Japan,日本語,-29.82
+106,tt4871022,2015-07-16,2800000,964206,Comedy,Pусский,RU,Russia,Pусский,-65.56
+107,tt4881242,2015-08-20,1050255,2250547,Action,,IN,India,,114.29
+108,tt4888834,2015-09-18,1900000,7800000,Drama,,IN,India,,310.53
+109,tt4901756,2015-09-10,1000000,2228115,Horror,Pусский,RU,Russia,Pусский,122.81
+110,tt4942750,2015-04-11,200000,200000, , , , , ,0.0
+111,tt4992086,2015-09-04,1400000,8300000,Romance,తెలుగు,IN,India,తెలుగు,492.86
+112,tt5057300,2015-10-16,4900000,2498851,Adventure,Deutsch,DE,Germany,Deutsch,-49.0
+113,tt5112966,2015-10-22,1211360,3129507,Comedy,Pусский,RU,Russia,Pусский,158.35
+114,tt5127406,2015-11-13,250071,534159,Documentary,Norsk,NO,Norway,Norsk,113.6
+115,tt5140556,2017-01-13,80,460,Documentary,普通话,CN,China,普通话,475.0
+116,tt5151622,2015-11-06,1183424,36982,Action,हिन्दी,IN,India,हिन्दी,-96.88
+117,tt5190958,2015-11-12,1500000,4400000,Music,हिन्दी,IN,India,हिन्दी,193.33
+118,tt5227024,2015-12-03,713,399,Comedy,English,SG,Singapore,English,-44.04
+119,tt5253372,2015-11-22,2000000,189000,Comedy,Pусский,RU,Russia,Pусский,-90.55
+120,tt5269792,2016-11-30,11000,3000,Documentary,Français,FR,France,Français,-72.73
+121,,2015-11-26,1500000,40840,Drama,Pусский,RU,Russia,Pусский,-97.28
+122,tt6673840,2017-04-09,7075038,9868942,Adventure,Pусский,RU,Russia,Pусский,39.49
+124,,2015-03-25,6000,6000, ,English, , , ,0.0
+125,tt5761968,2015-03-13,200000,5152,Drama,Español,CO,Colombia,Español,-97.42
+126,tt6447370,2015-12-03,4700000,500000, , , , , ,-89.36
+127,tt0419706,2005-10-20,60000000,58072119,Action,日本語,CZ,Czech Republic,日本語,-3.21
+128,tt0375063,2004-10-22,16000000,109502303,Comedy,,US,United States of America,,584.39
+129,tt0902272,2008-02-26,3500000,5231128,Action,English,US,United States of America,English,49.46
+130,tt7365948,2015-10-22,150000,2000,Drama,Español,CO,Colombia,Español,-98.67
+0,tt1002563,2016-03-10,18500000,6490401,Drama,English,US,United States of America,English,-64.92
+1,tt0096320,1988-12-09,15000000,216614388,Comedy,English,US,United States of America,English,1344.1
+2,tt1082807,2016-03-17,5000000,10166820,Action,English,CO,Colombia,English,103.34
+3,tt1911661,2010-09-16,150000,10000,Documentary,Italiano,IT,Italy,Italiano,-93.33
+4,tt1124037,2016-06-24,50000000,25035950,Action,English,US,United States of America,English,-49.93
+5,tt1179933,2016-03-10,15000000,108286421,Thriller,English,US,United States of America,English,621.91
+6,tt1292566,2016-01-21,38000000,112343513,Comedy,English,US,United States of America,English,195.64
+7,tt1374989,2016-02-04,28000000,16374328,Romance,English,US,United States of America,English,-41.52
+8,tt1473832,2016-09-14,35000000,211952420,Comedy,English,FR,France,English,505.58
+9,tt1489889,2016-06-15,50000000,216972543,Action,English,US,United States of America,English,333.95
+10,tt1620935,2016-11-04,6000000,6174491,Drama,English,US,United States of America,English,2.91
+11,tt1628841,2016-06-22,165000000,389681935,Action,English,US,United States of America,English,136.17
+12,tt1661275,2017-04-06,11795877,3603484,Romance,English,GB,United Kingdom,English,-69.45
+13,tt1700841,2016-07-11,19000000,140705322,Adventure,English,CA,Canada,English,640.55
+14,tt1711525,2016-11-25,45000000,114501299,Comedy,English,US,United States of America,English,154.45
+15,tt1860213,2016-01-21,11500000,94073028,Comedy,English,US,United States of America,English,718.03
+16,tt1878870,2016-11-18,9000000,18803648,Comedy,English,US,United States of America,English,108.93
+17,tt1935859,2016-09-28,110000000,296482446,Drama,English,BE,Belgium,English,169.53
+18,tt1974419,2016-06-08,7000000,3377430,Thriller,English,DK,Denmark,English,-51.75
+19,tt1974420,2016-11-23,25000000,3885342,Romance,English,US,United States of America,English,-84.46
+20,tt2032572,2016-09-22,40000000,2158568,Action,English,US,United States of America,English,-94.6
+21,tt2238032,2016-07-21,32000000,58500000,Action,English,CN,China,English,82.81
+22,tt2241351,2016-05-12,27000000,93282604,Thriller,English,US,United States of America,English,245.49
+23,tt2304933,2016-01-14,38000000,109906372,Adventure,English,US,United States of America,English,189.23
+24,tt2321405,2016-10-12,8000000,5873256,Animation,Français,FR,France,Français,-26.58
+25,tt2381991,2016-04-06,115000000,164989338,Action,English,US,United States of America,English,43.47
+26,tt2392830,2016-10-07,8138338,1864266,Drama,English,BE,Belgium,English,-77.09
+27,tt2404233,2016-02-25,140000000,150680864,Action,English,AU,Australia,English,7.63
+28,tt2513074,2016-11-10,40000000,30930984,Drama,English,CN,China,English,-22.67
+29,tt2547584,2016-09-02,20000000,25975621,Drama,English,AU,Australia,English,29.88
+30,tt2592614,2016-12-23,40000000,312242626,Action,English,FR,France,English,680.61
+31,tt2674426,2016-06-01,20000000,207945075,Drama,English,US,United States of America,English,939.73
+32,tt2823054,2016-06-15,33000000,77068246,Comedy,English,US,United States of America,English,133.54
+33,tt2975590,2016-03-23,250000000,873634919,Action,English,US,United States of America,English,249.45
+34,tt2978102,2016-04-29,16500000,21256,Thriller,English,US,United States of America,English,-99.87
+35,tt2980210,2016-04-22,30000000,4212494,Comedy,العربية,MX,Mexico,العربية,-85.96
+36,tt3067166,2016-06-18,200000,2500000, , , , , ,1150.0
+37,tt3135556,2016-03-13,2500000,230069,Comedy,English,US,United States of America,English,-90.8
+38,tt4094724,2016-06-29,10000000,118587880,Action,English,FR,France,English,1085.88
+39,tt3300542,2016-03-02,60000000,205754447,Action,English,BG,Bulgaria,English,242.92
+40,tt3381008,2016-02-24,35000000,27979040,Action,English,AU,Australia,English,-20.06
+41,tt3393786,2016-10-19,60000000,162146076,Action,English,CN,China,English,170.24
+42,tt3416828,2016-06-23,105000000,408579038,Adventure,English,US,United States of America,English,289.12
+43,tt0112792,1995-08-11,23000000,179519401,Thriller,English,US,United States of America,English,680.52
+44,tt3522806,2016-08-25,40000000,125729635,Action,български език,FR,France,български език,214.32
+45,tt3523996,2016-12-02,750000,2000000, , , , , ,166.67
+46,tt3553442,2016-03-04,35000000,23083334,Comedy,English,US,United States of America,English,-34.05
+47,tt3563080,2016-12-16,543000,181000,Action,اردو,PK,Pakistan,اردو,-66.67
+48,tt3606888,2016-11-04,8000000,82703,Drama,English,GB,United Kingdom,English,-98.97
+49,tt3628584,2016-04-15,20000000,55030051,Comedy,English,US,United States of America,English,175.15
+50,tt3647498,2016-08-11,13000000,6903033,Action,English,FR,France,English,-46.9
+51,tt3714720,2016-08-25,3800000,1016985,Comedy,English,US,United States of America,English,-73.24
+52,tt3717252,2016-11-24,35000000,81093313,Action,English,US,United States of America,English,131.7
+53,tt3776826,2016-07-29,1250000,55000,Thriller,English,US,United States of America,English,-95.6
+54,tt3794028,2016-10-19,10300000,47748,Drama,Deutsch,CA,Canada,Deutsch,-99.54
+55,tt3850544,2016-09-16,10000000,2600000, , , , , ,-74.0
+56,tt3859980,2016-08-11,17000000,16000000,Adventure,हिन्दी,IN,India,हिन्दी,-5.88
+57,tt3949660,2016-06-01,135000000,245623848,Action,English,US,United States of America,English,81.94
+58,tt4034228,2016-11-18,9000000,78988148,Drama,English,US,United States of America,English,777.65
+59,tt4034354,2016-06-24,3000000,4210454,Comedy,English,US,United States of America,English,40.35
+60,tt4052882,2016-06-24,17000000,119100758,Horror,English,AU,Australia,English,600.59
+61,tt4088268,2016-03-03,5210000,5900000,Crime,Dansk,DK,Denmark,Dansk,13.24
+62,tt4094724,2016-06-29,10000000,118587880,Action,English,FR,France,English,1085.88
+63,tt4232188,2016-11-11,25000,5000,Horror,Français,LU,Luxembourg,Français,-80.0
+64,tt4257926,2016-03-17,16000000,73983359,Drama,English,US,United States of America,English,362.4
+65,tt4258698,2016-08-26,1500000,6512004,Romance,English,US,United States of America,English,334.13
+66,tt4262516,2016-02-12,3056472,4472886,Drama,हिन्दी,IN,India,हिन्दी,46.34
+67,tt4262980,2016-07-29,15000000,77947607,Action,Italiano,JP,Japan,Italiano,419.65
+68,tt4302938,2016-08-18,60000000,69929545,Animation,English,US,United States of America,English,16.55
+69,tt4334266,2017-06-23,6000000,180851,Drama,English,US,United States of America,English,-96.99
+70,tt4341582,2016-09-23,15000000,10367161,Drama,English,US,United States of America,English,-30.89
+71,tt4353996,2016-09-29,7500000,9100000,Action,Dansk,NO,Norway,Dansk,21.33
+72,tt4361050,2016-10-20,9000000,81705746,Horror,English,US,United States of America,English,807.84
+73,tt4385888,2016-12-28,7000000,5664764,Drama,English,US,United States of America,English,-19.07
+74,tt4429194,2016-09-12,5000000,6700000,Romance,English,US,United States of America,English,34.0
+75,tt4434004,2016-06-17,5980000,14900000,Action,हिन्दी,IN,India,हिन्दी,149.16
+76,tt4438848,2016-05-04,35000000,108758521,Comedy,English,US,United States of America,English,210.74
+77,tt4468634,2016-09-25,2000000,1215691,Drama,English,US,United States of America,English,-39.22
+78,tt4471388,2016-01-07,2570000,4026795,Action,Pусский,RU,Russia,Pусский,56.68
+79,tt4486986,2016-09-14,30000000,646946,Mystery,English,US,United States of America,English,-97.84
+80,tt4501244,2016-12-22,38000000,118034273,Comedy,English,US,United States of America,English,210.62
+81,tt4540710,2016-11-25,13000000,9101546,Drama,English,FR,France,English,-29.99
+82,tt4550098,2016-11-04,22500000,29252978,Drama,English,US,United States of America,English,30.01
+83,tt4643432,2016-06-15,3500000,1492523,Drama,English,FR,France,English,-57.36
+84,tt4651410,2016-07-15,10500000,100659,Action,English,CA,Canada,English,-99.04
+85,tt4667094,2016-01-28,20000000,21164799,Romance,English,US,United States of America,English,5.82
+86,tt4682786,2016-12-06,36000000,88528280,Drama,English,US,United States of America,English,145.91
+87,tt4687848,2016-12-23,50000000,102205175,Action,日本語,CN,China,日本語,104.41
+88,tt4698684,2016-03-31,2500000,23200000,Adventure,English,NZ,New Zealand,English,828.0
+89,tt4714782,2016-10-19,6000000,1305195,Drama,svenska,BE,Belgium,svenska,-78.25
+90,tt4726636,2016-05-13,8104734,920719,Comedy,Français,BE,Belgium,Français,-88.64
+91,tt4730838,2016-12-25,4873880,5296102,Music,Norsk,NL,Netherlands,Norsk,8.66
+92,tt4731136,2017-02-15,40000000,26559557,Horror,English,DE,Germany,English,-33.6
+93,tt4771896,2016-09-09,1200000,1813729,Thriller,Español,ES,Spain,Español,51.14
+94,tt4846340,2016-12-10,25000000,230698791,Drama,English,US,United States of America,English,822.8
+95,tt4853102,2016-07-24,3500000,3775000,Action,English,US,United States of America,English,7.86
+96,tt4857264,2016-09-22,4000000,30000000,Mystery,Español,ES,Spain,Español,650.0
+97,tt4914580,2016-09-07,9620000,53165427,Action,English,KR,South Korea,English,452.66
+98,tt4939066,2016-07-27,12700000,49196532,History,English,KR,South Korea,English,287.37
+99,tt4944596,2016-10-28,4000000,1598584,Thriller,Español,ES,Spain,Español,-60.04
+100,tt4950110,2016-10-21,1500000,2000000,Drama,English,US,United States of America,English,33.33
+101,tt4981636,2016-10-07,8500000,23316139,Family,English,US,United States of America,English,174.31
+102,tt0082398,1981-06-23,28000000,195312802,Adventure,ελληνικά,GB,United Kingdom,ελληνικά,597.55
+103,tt5069022,2017-04-07,2000,20000,Romance,English,US,United States of America,English,900.0
+104,tt5071886,2016-07-22,18700000,74000000,Action,தமிழ்,IN,India,தமிழ்,295.72
+105,tt5077538,2016-12-28,7230000,1453270,Comedy,Français,CA,Canada,Français,-79.9
+106,tt5091538,2016-11-01,12156348,7900000,War,Français,BE,Belgium,Français,-35.01
+107,tt5096536,2016-11-01,10000000,3176,Drama,Deutsch,BE,Belgium,Deutsch,-99.97
+108,tt5108476,2016-12-09,15500000,9600000,Romance,हिन्दी,IN,India,हिन्दी,-38.06
+109,tt5119678,,10,11, ,English, , , ,10.0
+110,tt5122374,2016-05-04,19201483,17000172,Comedy,Español,AR,Argentina,Español,-11.46
+111,tt5141848,2016-07-11,10000,10000,Action,فارسی,IR,Iran,فارسی,0.0
+112,tt5142216,2016-10-26,1200,4300, , , , , ,258.33
+113,tt5197544,2016-09-09,7400000,9100000,Action,हिन्दी,IN,India,हिन्दी,22.97
+114,tt5198844,2016-02-18,1500000,2500000, ,Pусский, , , ,66.67
+115,tt5286444,2016-02-19,2900000,17618280,Drama,हिन्दी,IN,India,हिन्दी,507.53
+116,tt5290524,2016-01-01,11089000,75173000,Comedy,Italiano,IT,Italy,Italiano,577.91
+117,tt5297140,2016-11-11,520000,1500000,Romance,اردو,PK,Pakistan,اردو,188.46
+118,tt5297256,2016-10-07,3800000,29000000,Action,,IN,India,,663.16
+119,tt5310090,2016-01-28,300000,2100000,Action,हिन्दी,IN,India,हिन्दी,600.0
+120,tt5320514,2016-02-04,300000,2500000,Action,,IN,India,,733.33
+121,tt5333612,2016-09-08,1600000,4800000,Comedy,اردو,PK,Pakistan,اردو,200.0
+122,tt5340522,2016-01-15,3000000,10000000,Drama,తెలుగు,IN,India,తెలుగు,233.33
+123,tt5423310,2016-01-28,1230920,3569670,Drama,Bahasa melayu,MY,Malaysia,Bahasa melayu,190.0
+124,tt5431016,2016-01-28,39307171,37070177,Drama,Português,BR,Brazil,Português,-5.69
+125,tt5447140,2016-03-03,500,500,Mystery,한국어/조선말,KR,South Korea,한국어/조선말,0.0
+126,tt5457722,2016-05-20,11000000,10000000,Family,తెలుగు,IN,India,తెలుగు,-9.09
+127,tt5457772,2016-04-08,7503564,19059053,Action,తెలుగు,IN,India,తెలుగు,154.0
+128,tt5458364,2016-05-27,300000,300000,Comedy,,IN,India,,0.0
+129,tt5492684,2016-03-01,10000,2000, , , , , ,-80.0
+130,tt0287717,2002-08-07,38000000,119723358,Action,English,US,United States of America,English,215.06
+131,tt5529392,2016-02-11,6000000,11600000,Comedy,Português,BR,Brazil,Português,93.33
+132,tt5548032,2016-09-08,1000000,10000000,Thriller,,IN,India,,900.0
+133,tt0243415,2000-10-31,600000,173599, ,English, , , ,-71.07
+134,tt5646136,2016-07-15,5000000,13000000,History,English,US,United States of America,English,160.0
+135,tt5662932,2016-06-24,521873,1013926,Thriller,हिन्दी,IN,India,हिन्दी,94.29
+136,tt0222850,2000-02-01,1000000,1744858,Comedy,English,US,United States of America,English,74.49
+137,tt5671248,2017-05-19,1,25, , , , , ,2400.0
+138,tt5736696,2016-12-19,35112500,36360000,Action,Français,FR,France,Français,3.55
+139,tt5804038,2017-02-03,1000000,7123919,Documentary,English,BE,Belgium,English,612.39
+140,tt5824826,2016-07-29,200000,5500000,Romance,తెలుగు,IN,India,తెలుగు,2650.0
+141,tt5855378,2016-07-30,165000,2350000,Documentary,English,US,United States of America,English,1324.24
+142,tt5893524,2016-11-24,1500000,650000, ,English, , , ,-56.67
+143,,,1000,1000, ,বাংলা,IN,India,বাংলা,0.0
+144,tt5946128,2016-11-23,4300000,3376375,Drama,हिन्दी,IN,India,हिन्दी,-21.48
+145,tt5953594,2016-08-12,4200000,6900000,Action,தமிழ்,IN,India,தமிழ்,64.29
+146,tt5998104,2016-10-21,450000,2300000,Adventure,English,IN,India,English,411.11
+147,tt0096332,1988-02-05,17000000,10006806,Comedy,English,US,United States of America,English,-41.14
+148,tt6044910,2016-09-30,30200000,173000000,Action,,HK,Hong Kong,,472.85
+149,tt6054758,2016-12-30,562680,7033500,Comedy,?????,IN,India,?????,1150.0
+150,tt6118820,2016-09-29,30000,200000, ,Português, , , ,566.67
+151,tt6186430,2016-12-25,300000,4160000,Comedy,,PH,Philippines,,1286.67
+152,tt6211418,2016-08-17,80000,80000,Drama,فارسی,IR,Iran,فارسی,0.0
+153,tt0086006,1983-10-07,36000000,160000000,Adventure,English,DE,Germany,English,344.44
+154,tt6248178,2016-11-18,500,20,Comedy,Türkçe,TR,Turkey,Türkçe,-96.0
+155,tt0368794,2007-10-01,20000000,4001121,Drama,English,US,United States of America,English,-79.99
+156,tt6286666,2016-12-01,1500000,6900000,Thriller,தமிழ்,IN,India,தமிழ்,360.0
+157,tt6302160,2016-12-07,13938145,30169000,Thriller,한국어/조선말,KR,South Korea,한국어/조선말,116.45
+159,tt0470705,2007-02-21,4000000,8095658,Drama,English,DE,Germany,English,102.39
+160,tt4643580,2015-09-04,5300000,9080818,Animation,Español,MX,Mexico,Español,71.34
+161,,2016-11-10,500000,119836,Comedy,Pусский,RU,Russia,Pусский,-76.03
+162,tt6487540,2016-10-30,150000,500000,Family,English,LK,Sri Lanka,English,233.33
+163,tt0790686,2008-08-15,35000000,72436439,Horror,English,RO,Romania,English,106.96
+164,tt0120815,1998-07-24,70000000,481840909,Drama,Český,US,United States of America,Český,588.34
+165,tt7232940,2016-12-01,638,638, , , , , ,0.0
+166,tt7286250,2016-11-16,250000,400000, ,العربية, , , ,60.0
+167,tt7880648,,50000,260000, ,English, , , ,420.0
+168,tt7960962,2016-10-11,50000,50000,Documentary,Español,ES,Spain,Español,0.0
+169,tt5474042,2017-05-18,7445000,12805400,Drama,Deutsch,IN,India,Deutsch,72.0
+0,tt0491175,2017-10-26,25000000,5775178,Thriller,English,GB,United Kingdom,English,-76.9
+1,tt0491203,2017-07-13,25000000,3425664,Drama,English,GB,United Kingdom,English,-86.3
+2,tt5699154,2017-10-04,17200000,23800000,Comedy,Français,FR,France,Français,38.37
+3,tt0112471,1995-01-27,2500000,5535405,Drama,English,AT,Austria,English,121.42
+4,tt0306841,2003-05-02,17000000,55534455,Family,English,US,United States of America,English,226.67
+5,tt0115433,1996-11-17,54000000,320689294,Comedy,English,GB,United Kingdom,English,493.87
+6,tt1293847,2017-01-13,85000000,346147658,Action,English,CA,Canada,English,307.23
+7,tt1389072,2017-12-22,68000000,55003890,Comedy,Norsk,US,United States of America,Norsk,-19.11
+8,tt1412528,2017-03-03,5000000,5042014,Comedy,English,US,United States of America,English,0.84
+9,tt1485796,2017-12-20,84000000,432844677,Drama,English,US,United States of America,English,415.29
+10,tt1667321,2018-01-19,745971,3335913,Drama,English,GB,United Kingdom,English,347.19
+11,tt1724970,2017-10-20,20000000,992181,Action,English,US,United States of America,English,-95.04
+12,tt1730768,2017-03-31,20000000,26152835,Drama,English,CZ,Czech Republic,English,30.76
+13,tt1790809,2017-05-23,230000000,794861794,Adventure,English,US,United States of America,English,245.59
+14,tt1961175,2017-09-14,33000000,66167951,Action,العربية,HK,Hong Kong,العربية,100.51
+15,tt1972591,2017-05-10,175000000,148675066,Action,English,US,United States of America,English,-15.04
+16,tt1981128,2017-10-13,120000000,221600160,Action,English,US,United States of America,English,84.67
+17,tt2091256,2017-06-01,38000000,125289450,Action,English,US,United States of America,English,229.71
+18,tt2226597,2017-10-05,35000000,62832209,Romance,English,US,United States of America,English,79.52
+19,tt2239822,2017-07-20,177200000,225874228,Adventure,Français,BE,Belgium,Français,27.47
+20,tt2283362,2017-12-09,90000000,962102237,Action,English,US,United States of America,English,969.0
+21,tt2217859,2015-05-18,11000000,161789,Drama,English,DK,Denmark,English,-98.53
+22,tt2398241,2017-03-23,60000000,197183546,Adventure,English,US,United States of America,English,228.64
+23,tt2527336,2017-12-13,200000000,1332539889,Science Fiction,English,US,United States of America,English,566.27
+24,tt2763304,2017-01-27,18000000,42067430,Crime,български език,GB,United Kingdom,български език,133.71
+25,tt3014284,2017-09-21,70000000,123081555,Action,English,DK,Denmark,English,75.83
+26,tt3296908,2017-05-25,32679734,4412639,War,Deutsch,BE,Belgium,Deutsch,-86.5
+27,tt3371366,2017-06-16,217000000,605425157,Action,English,CA,Canada,English,179.0
+28,tt3450958,2017-07-11,150000000,488533726,Drama,English,CA,Canada,English,225.69
+29,tt3458760,2018-01-16,1,24,Action,Español,US,United States of America,Español,2300.0
+30,tt3486626,2017-08-11,40000000,65146020,Family,English,US,United States of America,English,62.87
+31,tt3501632,2017-10-25,180000000,853977126,Action,English,US,United States of America,English,374.43
+32,tt3521126,2017-03-12,10000000,29820616,Comedy,English,US,United States of America,English,198.21
+33,tt3731562,2017-03-08,185000000,566652812,Action,English,US,United States of America,English,206.3
+34,tt3881026,2017-09-22,1686858,1891907,Fantasy,suomi,FI,Finland,suomi,12.16
+35,tt3896102,2017-03-25,10778400,34156960,Animation,Español,ES,Spain,Español,216.9
+36,tt3902120,2017-12-15,1000,40,Comedy,English,US,United States of America,English,-96.0
+37,tt4030600,2017-01-12,7400000,26667197,Horror,English,US,United States of America,English,260.37
+38,tt4106376,2017-08-21,66190000,2602149,Thriller,Deutsch,DE,Germany,Deutsch,-96.07
+39,tt4209788,2017-01-01,30000000,59284015,Crime,English,CA,Canada,English,97.61
+40,tt4400994,2017-12-15,8000000,7856,Western,English,US,United States of America,English,-99.9
+41,tt4465564,2017-02-08,55000000,378827494,Drama,English,US,United States of America,English,588.78
+42,tt4494382,2017-10-12,8000000,8431194,Adventure,Italiano,PE,Peru,Italiano,5.39
+43,tt4538916,2017-12-26,7154497,15500000,Comedy,English,GB,United Kingdom,English,116.65
+44,tt4572792,2017-06-16,10000000,4596705,Drama,English,US,United States of America,English,-54.03
+45,tt4600952,2017-02-14,5400000,4803565,Action,Pусский,RU,Russia,Pусский,-11.05
+46,tt4630562,2017-04-12,250000000,1238764765,Action,English,US,United States of America,English,395.51
+47,tt4649466,2017-09-20,104000000,410902662,Action,svenska,GB,United Kingdom,svenska,295.1
+48,tt4682788,2017-10-12,4667008,17535962,Crime,English,BG,Bulgaria,English,275.74
+49,tt4693612,2017-04-12,5000000,3358085,Romance,Français,BE,Belgium,Français,-32.84
+50,tt4906960,2017-09-01,12300000,27000000,Action,हिन्दी,IN,India,हिन्दी,119.51
+51,tt4925292,2017-09-08,10000000,76858273,Drama,English,US,United States of America,English,668.58
+52,tt4943322,2017-03-10,40000000,413844,Romance,English,TR,Turkey,English,-98.97
+53,tt5125414,2017-12-22,3082000,7082000,Adventure,বাংলা,IN,India,বাংলা,129.79
+54,tt5176252,2017-09-29,3144622,2963886,Comedy,Español,ES,Spain,Español,-5.75
+55,tt5270948,2018-04-06,34000000,17904202,Drama,English,SE,Sweden,English,-47.34
+56,tt5273624,2017-01-28,63300000,731607,Adventure,普通话,CN,China,普通话,-98.84
+57,tt5294550,2017-12-21,50000000,56996304,Thriller,English,US,United States of America,English,13.99
+58,tt5340300,2018-04-06,8000000,2455027,Drama,English,GB,United Kingdom,English,-69.31
+59,tt5439796,2017-08-17,29000000,48453605,Action,English,US,United States of America,English,67.08
+60,tt5462602,2017-03-30,5000000,56303596,Comedy,English,US,United States of America,English,1026.07
+61,tt5472374,2017-05-11,3014770,2437852,Drama,हिन्दी,IN,India,हिन्दी,-19.14
+62,tt5474042,2017-05-18,7445000,12805400,Drama,Deutsch,IN,India,Deutsch,72.0
+63,tt5540188,2017-07-12,4250000,81089,Thriller,العربية,DK,Denmark,العربية,-98.09
+64,tt5559528,2017-03-10,779000,1550000,Thriller,தமிழ்,IN,India,தமிழ்,98.97
+65,tt5580390,2017-12-01,19500000,194989655,Drama,English,US,United States of America,English,899.95
+66,tt0268126,2002-12-06,19000000,32801173,Comedy,English,US,United States of America,English,72.64
+67,tt5687334,2017-06-24,12840746,82264,Drama,Français,MM,Myanmar,Français,-99.36
+68,tt5711148,2017-11-17,10000000,3179847,Romance,English,GB,United Kingdom,English,-68.2
+69,tt5715410,2017-07-26,30000000,46372519,Animation,English,BE,Belgium,English,54.58
+70,tt5721088,2017-12-01,22000000,6069605,Action,English,US,United States of America,English,-72.41
+71,tt5726616,2017-09-01,4000000,41063475,Romance,Français,FR,France,Français,926.59
+72,tt5727282,2017-09-06,7500000,16657800,Drama,English,DK,Denmark,English,122.1
+73,tt5752634,2017-04-28,1167,8,Comedy,Español,ES,Spain,Español,-99.31
+74,tt5776858,2017-12-25,35000000,47756590,Drama,English,US,United States of America,English,36.45
+75,tt5780034,2017-07-07,2400000,2000000,Drama,हिन्दी,IN,India,हिन्दी,-16.67
+76,tt5785170,2017-08-11,3700000,13800000,Comedy,हिन्दी,IN,India,हिन्दी,272.97
+77,tt5825380,2017-12-01,25000000,15366466,Drama,English,US,United States of America,English,-38.53
+78,tt5832544,2017-01-12,6000000,12000000,History,తెలుగు,IN,India,తెలుగు,100.0
+79,tt5837242,2018-03-23,441755,95589,Drama,Pусский,RU,Russia,Pусский,-78.36
+80,tt5851904,2017-06-21,3000000,19030780,Family,Français,BE,Belgium,Français,534.36
+81,tt5886440,2017-10-27,8000000,11165901,Drama,English,ES,Spain,English,39.57
+82,tt5925772,2017-05-05,1400000,3900000,Action,English,IN,India,English,178.57
+83,tt5956100,2017-12-18,15000000,87320000,Action,हिन्दी,IN,India,हिन्दी,482.13
+84,tt5996836,2017-03-30,9400000,9600000,Action,,IN,India,,2.13
+85,tt6000478,2017-11-17,22000000,11942780,Drama,English,US,United States of America,English,-45.71
+86,tt6003368,2017-05-19,22000000,40120144,Comedy,English,US,United States of America,English,82.36
+87,tt6053438,2018-05-18,3500000,2525738,Drama,English,US,United States of America,English,-27.84
+88,tt6097918,2017-01-20,1300000,6300000,Comedy,,IN,India,,384.62
+89,tt6108090,2017-10-19,286284,137416709,Drama,हिन्दी,IN,India,हिन्दी,47900.14
+90,tt6135348,2017-08-23,6600000,7632420,Drama,Français,FR,France,Français,15.64
+91,tt6143568,2017-07-11,6000000,17544173,Action,English,US,United States of America,English,192.4
+92,tt6167894,2017-03-03,610000,3100000,Action,,IN,India,,408.2
+93,tt6168002,2017-04-14,780000,2200000,Drama,,IN,India,,182.05
+94,tt6188518,2017-04-01,850000,1500000,Comedy,,IN,India,,76.47
+95,tt6194538,2017-09-27,9850941,3503943,Comedy,Français,BE,Belgium,Français,-64.43
+96,tt6207956,2017-02-03,10000,10000,Drama,فارسی,IR,Iran,فارسی,0.0
+97,tt6211480,2017-02-02,100000,1500000,Family,فارسی,IR,Iran,فارسی,1400.0
+98,tt6213850,2017-06-14,10000,10000,Drama,فارسی,IR,Iran,فارسی,0.0
+99,tt6217672,2017-08-02,1000000,10000,Drama,فارسی,IR,Iran,فارسی,-99.0
+100,tt6217804,2017-10-20,25000000,48333932,Horror,English,US,United States of America,English,93.34
+101,tt6231840,2017-07-07,150000,20000, ,, , , ,-86.67
+102,tt6237548,2017-01-26,9,15,Comedy,తెలుగు,IN,India,తెలుగు,66.67
+103,tt6244876,2017-03-23,690000,640000,Adventure,,IN,India,,-7.25
+104,tt6247708,2017-05-19,620000,1800000,Thriller,,IN,India,,190.32
+105,tt6256468,2017-01-13,700000,2100000,Comedy,ਪੰਜਾਬੀ,IN,India,ਪੰਜਾਬੀ,200.0
+106,tt0490210,2008-06-06,820000,8130000,Action,हिन्दी,IN,India,हिन्दी,891.46
+107,tt6288694,2017-10-27,10000000,320705,Thriller,English,US,United States of America,English,-96.79
+108,tt6322922,2017-07-28,1000000,5398976,Documentary,English,US,United States of America,English,439.9
+109,tt6327400,2017-01-26,2650000,1500000,Romance,普通话,TW,Taiwan,普通话,-43.4
+110,tt6359956,2017-08-04,28000000,130560428,Comedy,English,US,United States of America,English,366.29
+111,tt6363436,2017-04-07,2400000,1100000,Drama,हिन्दी,IN,India,हिन्दी,-54.17
+112,tt6367558,2017-05-26,7110000,4248574,Romance,Français,BE,Belgium,Français,-40.25
+113,tt6399490,2017-02-10,1800000,7494,Drama,,IN,India,,-99.58
+114,tt1723811,2011-10-02,6500000,3909002,Drama,English,CA,Canada,English,-39.86
+115,tt6417204,2017-01-14,1200000,8100000,Drama,తెలుగు,IN,India,తెలుగు,575.0
+116,tt6426832,2017-04-12,930000,1400000,Action,?????,IN,India,?????,50.54
+117,tt6481002,2017-01-31,1000000,15000000, ,English, , , ,1400.0
+118,tt6493286,2017-12-27,12308000,49380115,Drama,한국어/조선말,KR,South Korea,한국어/조선말,301.2
+119,tt6513084,,100000,250000, , , , , ,150.0
+120,tt6537238,2017-09-22,15000000,13767037,Action,Pусский,RU,Russia,Pусский,-8.22
+121,tt6574272,2017-04-21,2800000,3600000,Horror,English,US,United States of America,English,28.57
+122,tt6576288,2017-04-21,550000,2000000,Comedy,,IN,India,,263.64
+123,tt0217756,2000-04-07,24000000,12372410,Action,English,US,United States of America,English,-48.45
+124,tt6649794,2017-07-14,625000,2200000,Comedy,,IN,India,,252.0
+125,tt6673840,2017-04-09,7075038,9868942,Adventure,Pусский,RU,Russia,Pусский,39.49
+126,tt6680752,2017-06-24,620000,940000,Drama,,IN,India,,51.61
+127,tt6711660,2017-08-25,1400000,2500000,Action,हिन्दी,IN,India,हिन्दी,78.57
+128,tt6721132,2017-05-07,125000,78000,Documentary,English,AR,Argentina,English,-37.6
+129,tt6774196,,4000,7800,Crime,English,US,United States of America,English,95.0
+130,tt6777338,2017-06-08,125000,8737458,Drama,한국어/조선말,KR,South Korea,한국어/조선말,6889.97
+131,tt6857332,2017-01-18,1000000,2775228,Animation,한국어/조선말,KR,South Korea,한국어/조선말,177.52
+132,tt2664108,2014-06-26,600000,25574,Drama,Pусский,RU,Russia,Pусский,-95.74
+133,tt0324216,2003-05-21,9500000,107071655,Horror,English,US,United States of America,English,1027.07
+134,tt6967980,2017-08-17,2740700,8050806,Romance,हिन्दी,IN,India,हिन्दी,193.75
+135,tt6971752,2017-08-31,3425875,8838757, ,हिन्दी, , , ,158.0
+136,tt6975046,2017-05-19,4,2,Romance,বাংলা,IN,India,বাংলা,-50.0
+137,tt6997426,2017-10-31,170000,22834,Documentary,English,ES,Spain,English,-86.57
+138,tt7063130,2017-07-13,280000,1200000,Comedy,اردو,PK,Pakistan,اردو,328.57
+139,tt7085164,2017-11-07,1000000,173187,Drama,Pусский,RU,Russia,Pусский,-82.68
+140,tt7160070,2017-12-14,18300000,125983972,Drama,한국어/조선말,KR,South Korea,한국어/조선말,588.44
+141,tt7240130,2017-10-11,1250000,35423, ,English, , , ,-97.17
+142,tt7278838,2017-08-14,2000,2000, , , , , ,0.0
+143,tt0120815,1998-07-24,70000000,481840909,Drama,Český,US,United States of America,Český,588.34
+144,tt1582637,2010-03-31,4600000,4100000, ,తెలుగు, , , ,-10.87
+145,,2003-03-03,500000,500000,Drama,தமிழ்,IN,India,தமிழ்,0.0
+146,tt7494122,2017-07-28,20,753, , , , , ,3665.0
+147,tt0448694,2011-10-28,130000000,554987477,Action,Español,US,United States of America,Español,326.91
+148,tt1242422,2009-11-06,5700000,19300483,Action,English,FR,France,English,238.6
+149,tt7791106,2017-09-08,250000,225000, ,বাংলা, , , ,-10.0
+150,tt0181689,2002-06-20,102000000,358372926,Action,English,US,United States of America,English,251.35
+151,tt7938472,2017-12-28,12000,24000, , , , , ,100.0
+152,tt8000450,2017-10-15,7665,134444,Action,日本語,JP,Japan,日本語,1654.0
+153,tt8333222,2017-02-06,160000,440000,Drama,Español,DO,Dominican Republic,Español,175.0
+154,tt8532152,2017-02-02,15454,45150,Adventure,Español,PE,Peru,Español,192.16
+155,tt8166164,2018-03-20,10000,10000,Comedy,فارسی,IR,Iran,فارسی,0.0
+0,tt1075113,2009-06-03,13000000,2651917,Drama,Français,FR,France,Français,-79.6
+1,tt1273221,2018-09-20,8000000,252676,Crime,English,GB,United Kingdom,English,-96.84
+2,tt1285009,2018-03-07,12500000,31039126,Horror,English,US,United States of America,English,148.31
+3,tt1308728,2018-08-22,40000000,27506452,Action,English,CN,China,English,-31.23
+5,tt1413492,2018-01-16,35000000,67131266,Drama,English,US,United States of America,English,91.8
+6,tt1571234,2018-11-27,100000000,83672673,Adventure,English,NZ,New Zealand,English,-16.33
+7,tt2119543,2018-09-15,42000000,131457147,Fantasy,English,CA,Canada,English,212.99
+8,tt2296777,2018-03-15,59000000,87625666,Animation,English,GB,United Kingdom,English,48.52
+9,tt2557478,2018-03-21,150000000,290061297,Action,English,CN,China,English,93.37
+10,tt2873282,2018-02-28,69000000,151572634,Mystery,English,US,United States of America,English,119.67
+11,tt3104988,2018-08-15,30000000,237994561,Comedy,广州话 / 廣州話,US,United States of America,广州话 / 廣州話,693.32
+12,tt3289724,2018-12-21,39000000,12780692,Drama,English,US,United States of America,English,-67.23
+13,tt0410297,2006-06-16,40000000,114830111,Romance,English,US,United States of America,English,187.08
+14,tt3778644,2018-05-15,250000000,392952373,Adventure,English,US,United States of America,English,57.18
+15,tt3920820,2019-08-09,10,4,Drama,English,US,United States of America,English,-60.0
+16,tt3956336,2018-09-21,2000000,2231,Adventure,English,US,United States of America,English,-99.89
+17,tt4073790,2018-07-25,34000000,41142379,Science Fiction,English,US,United States of America,English,21.01
+18,tt4103724,2018-01-26,3500000,16367326,Romance,English,US,United States of America,English,367.64
+19,tt4123430,2018-11-14,200000000,653355901,Adventure,English,GB,United Kingdom,English,226.68
+20,tt4500922,2018-01-10,62000000,288175335,Action,English,US,United States of America,English,364.8
+21,tt4537896,2018-09-14,29000000,26000000,Crime,English,US,United States of America,English,-10.34
+22,tt4669788,2018-12-25,20000000,38673750,Drama,English,US,United States of America,English,93.37
+23,tt4701724,2018-01-26,50000000,53431158,Family,English,FR,France,English,6.86
+24,tt4761916,2018-07-19,1000000,9602624,Horror,English,US,United States of America,English,860.26
+25,tt4881806,2018-06-06,170000000,1303459585,Action,English,US,United States of America,English,666.74
+26,tt4912910,2018-07-13,178000000,791017452,Action,English,CN,China,English,344.39
+27,tt4971344,2018-09-19,38000000,13143056,Western,English,US,United States of America,English,-65.41
+28,tt5052474,2018-06-27,35000000,75836683,Action,English,US,United States of America,English,116.68
+29,tt5095030,2018-07-04,140000000,622674139,Action,English,US,United States of America,English,344.77
+30,tt5164432,2018-02-16,17000000,66316289,Comedy,English,US,United States of America,English,290.1
+31,tt5177088,2018-10-25,43000000,35164920,Action,English,CA,Canada,English,-18.22
+32,tt5208252,2018-08-29,24000000,17506878,Drama,Deutsch,AR,Argentina,Deutsch,-27.05
+33,tt5208950,2018-01-26,13000000,4537,Action,English,US,United States of America,English,-99.97
+34,tt5220122,2018-06-28,80000000,100176000,Family,English,US,United States of America,English,25.22
+35,tt5325684,2018-03-09,2900000,3200000,Thriller,हिन्दी,IN,India,हिन्दी,10.34
+36,tt5360952,2018-02-28,35000000,32517248,Action,English,US,United States of America,English,-7.09
+37,tt5523010,2018-10-26,120000000,59522646,Fantasy,English,US,United States of America,English,-50.4
+38,tt5580266,2018-10-19,23000000,34934009,Crime,English,US,United States of America,English,51.89
+39,tt5613484,2018-10-19,258158,6897446,Drama,English,US,United States of America,English,2571.79
+40,tt5664636,2018-10-11,35000000,92503612,Adventure,English,GB,United Kingdom,English,164.3
+41,tt5691670,2018-06-21,8500000,2053469,Crime,English,US,United States of America,English,-75.84
+42,tt5726086,2018-01-03,10000000,167184112,Mystery,English,US,United States of America,English,1571.84
+43,tt5734576,2018-11-29,7700000,41036181,Horror,English,US,United States of America,English,432.94
+44,tt5834262,2018-06-07,15000000,12371132,Thriller,English,GB,United Kingdom,English,-17.53
+45,tt5842616,2018-06-01,6800000,19700000,Drama,हिन्दी,IN,India,हिन्दी,189.71
+46,tt5848272,2018-11-20,175000000,529221154,Family,English,US,United States of America,English,202.41
+47,tt5935704,2018-01-25,31000000,81673897,Drama,हिन्दी,IN,India,हिन्दी,163.46
+48,tt6063050,2018-03-30,20000000,34764055,Thriller,English,US,United States of America,English,73.82
+49,tt6073576,2018-04-20,17000000,60622,Action,普通话,CN,China,普通话,-99.64
+50,tt6096852,2019-09-03,3000,4000,Thriller,English,GB,United Kingdom,English,33.33
+51,tt6133466,2018-07-04,13000000,137056262,Action,English,US,United States of America,English,954.28
+52,tt6212478,2018-06-01,3000000,2847319,Drama,English,US,United States of America,English,-5.09
+53,tt6257174,2018-07-18,900000,2019874,Drama,English,GB,United Kingdom,English,124.43
+54,tt6450186,2018-02-14,7000000,86026201,Music,English,US,United States of America,English,1128.95
+55,tt6491178,2019-02-21,15000000,660132,Crime,English,CA,Canada,English,-95.6
+56,tt6588966,2018-03-23,2000000,25629954,Drama,English,IN,India,English,1181.5
+57,tt6628394,2018-10-04,32000000,31882724,Thriller,English,US,United States of America,English,-0.37
+58,tt6663582,2018-08-02,40000000,33562069,Action,English,CA,Canada,English,-16.09
+59,tt6749318,2018-11-16,15000000,5812,Crime,English,PR,Puerto Rico,English,-99.96
+60,tt6791096,2018-04-19,32000000,94539426,Comedy,English,CN,China,English,195.44
+61,tt6802308,2018-02-02,30000000,57076286,Drama,English,US,United States of America,English,90.25
+62,tt6878882,2018-02-16,70000000,579220560,Action,العربية,CN,China,العربية,727.46
+63,tt6921996,2018-09-13,25000000,158256993,Action,English,FR,France,English,533.03
+64,tt6946008,,15000,10000, , , , , ,-33.33
+65,tt0113198,1995-04-07,18000000,35348597,Romance,English,AU,Australia,English,96.38
+66,tt7125860,2018-12-14,12000000,20572691,Drama,English,US,United States of America,English,71.44
+67,tt7158430,2018-06-08,2000000,2115765,Drama,English,US,United States of America,English,5.79
+68,tt7167630,2018-01-12,1000000,3469151,Thriller,English,US,United States of America,English,246.92
+69,tt7187860,2018-01-18,8166084,8475827, ,Italiano, , , ,3.79
+70,tt7334528,2018-06-27,19000000,17665000,Comedy,English,US,United States of America,English,-7.03
+71,tt7349662,2018-07-30,15000000,48686605,Crime,English,US,United States of America,English,224.58
+72,tt7388562,2018-03-23,5000000,22525668,History,Español,US,United States of America,Español,350.51
+73,tt7401588,2018-11-16,48000000,14700000,Comedy,English,US,United States of America,English,-69.38
+74,tt7424200,2018-07-27,10000000,28646544,Animation,English,US,United States of America,English,186.47
+75,tt7465992,2018-05-09,4346100,11589600,Drama,English,IN,India,English,166.67
+76,tt0104254,1992-04-10,24000000,32710894,Fantasy,English,AU,Australia,English,36.3
+77,tt7720922,2018-09-21,7100000,9600000,Comedy,हिन्दी,IN,India,हिन्दी,35.21
+78,tt0119145,1998-06-28,1700000,1960000, , , , , ,15.29
+79,tt7897432,2018-02-20,10000,10000,Action,فارسی,IR,Iran,فارسی,0.0
+80,tt7901384,2018-10-08,10000,10000,Comedy,فارسی,IR,Iran,فارسی,0.0
+81,tt7901408,2018-02-20,10000,10000, ,فارسی, , , ,0.0
+82,tt7901572,2018-08-13,10000,100000,Drama,فارسی,IR,Iran,فارسی,900.0
+83,tt7919680,2018-08-03,3038109,3489863,Adventure,हिन्दी,IN,India,हिन्दी,14.87
+84,tt7921182,2018-02-08,10,1, ,English, , , ,-90.0
+85,tt0072081,1975-05-21,5000000,41833347,Mystery,English,GB,United Kingdom,English,736.67
+86,tt7994188,2018-01-19,296770,1632236, , , , , ,450.0
+87,tt8032912,2018-08-22,858369,3087982,Action,English,AU,Australia,English,259.75
+88,tt8043306,2018-07-20,1500000,3062477,Drama,اردو,PK,Pakistan,اردو,104.17
+89,tt8047208,2018-06-01,1000000,100000000, ,తెలుగు, , , ,9900.0
+90,tt8072400,2018-10-18,2123894,5479646,Romance,తెలుగు,IN,India,తెలుగు,158.0
+91,tt8108198,2018-10-05,4500000,40000000,Crime,English,IN,India,English,788.89
+92,tt8116428,2018-08-01,18300000,112790210,Drama,한국어/조선말,KR,South Korea,한국어/조선말,516.34
+93,tt8119680,2018-10-03,7120949,29433930,Crime,한국어/조선말,KR,South Korea,한국어/조선말,313.34
+94,tt8166164,2018-03-20,10000,10000,Comedy,فارسی,IR,Iran,فارسی,0.0
+95,tt8262118,2018-02-16,2,10, , , , , ,400.0
+96,tt8267604,2018-10-06,4000000,64978931,Drama,العربية,LB,Lebanon,العربية,1524.47
+97,tt8267604,2018-10-06,4000000,64978931,Drama,العربية,LB,Lebanon,العربية,1524.47
+98,tt8589358,2017-09-09,10000,10000,Comedy,فارسی,IR,Iran,فارسی,0.0
+99,tt8602654,2018-08-23,282099,4936739,Drama,English,IN,India,English,1650.0
+100,tt8822390,2018-11-16,3,2, , , , , ,-33.33
+101,tt8925540,2018-12-07,3000000,12000000,Animation,Français,CA,Canada,Français,300.0
+102,tt0111161,1994-09-23,25000000,28341469,Drama,English,US,United States of America,English,13.37
+103,tt9063684,2018-10-26,11000,100000,Comedy,Română,RO,Romania,Română,809.09
+104,tt0486674,2008-10-17,25000000,6673422,Comedy,Français,US,United States of America,Français,-73.31
+105,tt9063684,2018-10-26,11000,100000,Comedy,Română,RO,Romania,Română,809.09
+0,tt0385887,2019-10-31,26000000,18377736,Drama,English,US,United States of America,English,-29.32
+1,tt10011102,2019-03-08,1000,1000,Action,हिन्दी,IN,India,हिन्दी,0.0
+2,tt0048960,1956-10-17,6000000,42000000,Adventure,English,US,United States of America,English,600.0
+3,tt1025100,2019-10-02,138000000,173469516,Action,English,CN,China,English,25.7
+4,tt10256570,2019-12-19,4000000,8277796,Drama,Italiano,IT,Italy,Italiano,106.94
+5,tt10276554,2019-08-29,1100000,162640,War,Український,UA,Ukraine,Український,-85.21
+6,tt0034583,1942-11-26,878000,10462500,Drama,Deutsch,US,United States of America,Deutsch,1091.63
+7,tt10555920,2019-10-31,13000000,13000000, ,English, , , ,0.0
+8,tt10706724,2019-07-27,748,850,Horror,No Language,AT,Austria,No Language,13.64
+9,tt1532958,2013-09-21,20000000,16549477,Music,English,US,United States of America,English,-17.25
+10,tt10809934,2019-09-23,10000,100000,Horror,English,US,United States of America,English,900.0
+12,tt10871460,2019-08-29,1413543,1862261,Fantasy,普通话,TW,Taiwan,普通话,31.74
+13,tt10918524,2019-10-08,25000,50000, , , , , ,100.0
+14,tt10931434,2019-09-06,46,5, , , , , ,-89.13
+15,tt10942220,2020-02-17,1753,9907, ,, , , ,465.15
+16,tt0116118,1996-05-12,5000000,42000000,TV Movie,English,CA,Canada,English,740.0
+17,tt0464049,2006-10-02,4000000,13401952,Comedy,English,GB,United Kingdom,English,235.05
+18,tt11123206,,25000,75000,Documentary,English,GB,United Kingdom,English,200.0
+19,tt11254246,,10000,40000, , , , , ,300.0
+20,tt11341572,,25000,70000, , , , , ,180.0
+21,tt11529348,2019-12-27,1500000,1489573, ,Română, , , ,-0.7
+22,tt1206885,2019-09-19,50000000,91490353,Action,English,CN,China,English,82.98
+24,tt12098452,2019-12-11,1000,1080,Comedy,English,US,United States of America,English,8.0
+25,tt0120148,1998-04-23,6000000,58000000,Comedy,English,GB,United Kingdom,English,866.67
+26,tt13260472,2019-11-01,5000,6000, ,English, , , ,20.0
+27,tt1478839,2019-08-08,18000000,33766787,Comedy,English,US,United States of America,English,87.59
+28,tt1489887,2019-05-24,6000000,24849029,Comedy,English,US,United States of America,English,314.15
+29,tt1560220,2019-10-09,42000000,122801777,Horror,English,US,United States of America,English,192.39
+30,tt1667354,2019-09-12,7838798,579026,Drama,Český,SK,Slovakia,Český,-92.61
+31,tt1946502,2019-05-01,45000000,27530241,Animation,English,CA,Canada,English,-38.82
+32,tt2283336,2019-06-12,110000000,252608480,Comedy,Français,US,United States of America,Français,129.64
+33,tt2386490,2019-01-03,129000000,517526875,Animation,English,US,United States of America,English,301.18
+34,tt2527338,2019-12-18,250000000,1074144248,Action,English,US,United States of America,English,329.66
+35,tt2584384,2019-10-18,14000000,82468705,Comedy,English,CZ,Czech Republic,English,489.06
+36,tt3038708,2019-01-25,21000000,400900,Action,English,FI,Finland,English,-98.09
+38,tt3513498,2019-01-26,100000000,190514361,Action,English,US,United States of America,English,90.51
+39,tt3513548,2019-12-13,45000000,33904605,Drama,English,US,United States of America,English,-24.66
+40,tt4777008,2019-10-16,185000000,491570967,Fantasy,English,US,United States of America,English,165.71
+41,tt4913966,2019-04-17,9000000,122033739,Thriller,English,US,United States of America,English,1255.93
+42,tt4916630,2019-12-25,25000000,50401502,Drama,English,US,United States of America,English,101.61
+43,tt5563334,2019-11-08,10000000,33856058,Drama,Deutsch,DE,Germany,Deutsch,238.56
+44,tt5719748,2019-02-07,60000000,59213931,Action,English,CA,Canada,English,-1.31
+45,tt5814534,2019-12-04,100000000,171616764,Animation,English,US,United States of America,English,71.62
+46,tt5884052,2019-05-03,150000000,433005346,Action,English,JP,Japan,English,188.67
+47,tt5932728,2019-03-07,25000000,4957273,Drama,English,IE,Ireland,English,-80.17
+48,tt5951188,2019-03-21,3500000,4944386,Drama,Pусский,RU,Russia,Pусский,41.27
+49,tt5968394,2019-03-15,25000000,5958315,Science Fiction,English,US,United States of America,English,-76.17
+50,tt6146586,2019-05-15,55000000,326709727,Action,العربية,US,United States of America,العربية,494.02
+51,tt6189022,2019-08-21,40000000,146661977,Action,English,US,United States of America,English,266.65
+52,tt6320628,2019-06-28,160000000,1131927996,Action,Český,US,United States of America,Český,607.45
+53,tt6329716,2019-06-20,2869666,12000000,Action,广州话 / 廣州話,HK,Hong Kong,广州话 / 廣州話,318.17
+54,tt6428676,2019-03-14,100000000,119559110,Comedy,English,ES,Spain,English,19.56
+55,tt6439020,2019-11-07,15600000,11620337,Drama,English,GB,United Kingdom,English,-25.51
+56,tt6450804,2019-10-23,185000000,261119292,Action,English,CN,China,English,41.15
+57,tt6511932,2019-03-21,5000000,4554065,Comedy,Español,FR,France,Español,-8.92
+58,tt6565702,2019-06-05,200000000,252442974,Science Fiction,English,US,United States of America,English,26.22
+59,tt6772804,2019-06-20,36,18,Action,English,US,United States of America,English,-50.0
+60,tt6811018,2019-01-16,59000000,32140970,Action,English,GB,United Kingdom,English,-45.52
+61,tt6817944,2019-11-15,4700000,18666,Drama,svenska,FR,France,svenska,-99.6
+62,tt6836936,2019-08-29,51000000,55000000,Action,English,IN,India,English,7.84
+63,tt7520068,2019-09-06,420,3, ,Türkçe, , , ,-99.29
+64,tt7547410,2019-08-08,49000000,116826172,Adventure,Español,US,United States of America,Español,138.42
+65,tt7616798,2019-01-10,18000000,17643857,Drama,English,US,United States of America,English,-1.98
+66,tt0093737,1987-09-18,15000000,13290368,Romance,English,US,United States of America,English,-11.4
+67,tt7718114,2019-10-10,208000,78254,Drama,Magyar,HU,Hungary,Magyar,-62.38
+68,tt7752126,2019-05-09,6000000,32893421,Horror,English,US,United States of America,English,448.22
+69,tt7818580,2019-09-27,4735684,12277353,Drama,English,AR,Argentina,English,159.25
+70,tt7858496,2019-06-28,8250378,3262957,Comedy,Español,ES,Spain,Español,-60.45
+71,tt7876510,2020-01-02,344000,351500,Comedy,English,UA,Ukraine,English,2.18
+72,tt7975244,2019-12-04,125000000,796575993,Adventure,English,US,United States of America,English,537.26
+73,tt8109800,2019-04-04,2000000,134696,Drama,Español,AR,Argentina,Español,-93.27
+74,tt8151874,2019-11-08,3500000,3400977,Drama,English,US,United States of America,English,-2.83
+75,tt8155288,2019-02-13,9000000,25327500,Comedy,English,US,United States of America,English,181.42
+76,tt8350360,2019-06-26,30000000,231252591,Horror,English,US,United States of America,English,670.84
+77,tt8594376,2019-10-30,4000000,2514679,Thriller,Italiano,IT,Italy,Italiano,-37.13
+78,tt8615732,2019-05-10,4302540,731827,Drama,Pусский,RU,Russia,Pусский,-82.99
+79,tt8688634,2019-10-24,33000000,47088457,Crime,English,US,United States of America,English,42.69
+80,tt8785134,2019-02-07,2170217,5063840,Action,?????,IN,India,?????,133.33
+81,tt8876008,2019-11-15,350000,3000000, , , , , ,757.14
+82,tt8881326,2019-05-17,84600,920000, ,, , , ,987.47
+83,tt9015746,2019-02-14,1645266,757123,Romance,Magyar,HU,Hungary,Magyar,-53.98
+84,tt9034290,2019-03-15,3000000,1289283,History,English,TR,Turkey,English,-57.02
+85,tt9052870,2019-09-05,6825000,29353057,Romance,हिन्दी,IN,India,हिन्दी,330.08
+86,tt9063902,2019-09-06,1450000,368430,Comedy,Español,ES,Spain,Español,-74.59
+87,tt9165806,2019-09-06,1300000,4400000,Comedy,,IN,India,,238.46
+88,tt9173002,2019-10-18,2700000,443038,Drama,Español,BE,Belgium,Español,-83.59
+89,tt9260446,2019-04-18,8000000,5000000,Comedy,Italiano,IT,Italy,Italiano,-37.5
+90,tt9264336,2019-12-20,704334,3803406,Drama,,IN,India,,440.0
+91,tt9564774,2019-12-13,3500000,10000000,Family,తెలుగు,IN,India,తెలుగు,185.71
+92,tt9720440,2019-03-25,25000,2000,Thriller,,UG,Uganda,,-92.0
+93,tt9764654,2019-02-27,12547000,1091477,Drama,한국어/조선말,KR,South Korea,한국어/조선말,-91.3
