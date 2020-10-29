@@ -2,6 +2,8 @@
 
 <img src="https://media3.giphy.com/media/12gb1UjsagJmRPSApY/source.gif" width="150">
 
+<<<<<<< HEAD
+=======
 Using movies from 2015-2019, this task examines three main questions:
 
   1. <b> Does a higher budget determine how lucrative a movie’s profit will be? </b>
@@ -21,6 +23,7 @@ Drama and Comedy were similar, with most movies made under a 60-million-dollar b
 The Action scatter plot was more scattered. We see higher budgets, and while we do see higher profits with higher budgets, we also see higher profits in lower budgets. Therefore, <i>none</i> of the genres had a correlation between budget and profit.
 
 Having no difference in the top 3 genres, we wondered if there was a difference in the US and International countries. Both returned <i>no</i> correlation, the US with a 0.29 correlation, and International resulted in a lower 0.07 correlation. The difference we did see is that in the US, we spend more on movies than international countries. In the US, we see high profits in low and high movies while in International countries, we only see the higher profits in budgets below 100-million-dollars.
+>>>>>>> 595c24fe8244cd5df8221c66cfac44dd1a249032
 
 
 
