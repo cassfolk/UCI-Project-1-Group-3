@@ -10,6 +10,11 @@ config.py
 api_keys.py
 config.py
 title.ratings.tsv
+.movie_title.csv.icloud
+.title.ratings.tsv.icloud
+.icloud
+~$am 3 - Project 1.docx
+
 
 
 
